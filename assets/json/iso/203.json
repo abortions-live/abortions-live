@@ -1,0 +1,161 @@
+{
+    "name": {
+        "common": "Czechia",
+        "official": "Czech Republic",
+        "native": {
+            "ces": {
+                "official": "\u010cesk\u00e1 republika",
+                "common": "\u010cesko"
+            },
+            "slk": {
+                "official": "\u010cesk\u00e1 republika",
+                "common": "\u010cesko"
+            }
+        }
+    },
+    "tld": [
+        ".cz"
+    ],
+    "cca2": "CZ",
+    "ccn3": "203",
+    "cca3": "CZE",
+    "cioc": "CZE",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "CZK": {
+            "name": "Czech koruna",
+            "symbol": "K\u010d"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "20"
+        ]
+    },
+    "capital": [
+        "Prague"
+    ],
+    "altSpellings": [
+        "CZ",
+        "\u010cesk\u00e1 republika",
+        "\u010cesko"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+        "ces": "Czech",
+        "slk": "Slovak"
+    },
+    "translations": {
+        "ces": {
+            "official": "\u010cesk\u00e1 republika",
+            "common": "\u010cesko"
+        },
+        "cym": {
+            "official": "Y Weriniaeth Tsiec",
+            "common": "Y Weriniaeth Tsiec"
+        },
+        "deu": {
+            "official": "Tschechische Republik",
+            "common": "Tschechien"
+        },
+        "est": {
+            "official": "T\u0161ehhi Vabariik",
+            "common": "T\u0161ehhi"
+        },
+        "fin": {
+            "official": "T\u0161ekin tasavalta",
+            "common": "T\u0161ekki"
+        },
+        "fra": {
+            "official": "R\u00e9publique tch\u00e8que",
+            "common": "Tch\u00e9quie"
+        },
+        "hrv": {
+            "official": "\u010ce\u0161ka",
+            "common": "\u010ce\u0161ka"
+        },
+        "hun": {
+            "official": "Cseh K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Csehorsz\u00e1g"
+        },
+        "ita": {
+            "official": "Repubblica Ceca",
+            "common": "Cechia"
+        },
+        "jpn": {
+            "official": "\u30c1\u30a7\u30b3\u5171\u548c\u56fd",
+            "common": "\u30c1\u30a7\u30b3"
+        },
+        "kor": {
+            "official": "\uccb4\ucf54",
+            "common": "\uccb4\ucf54"
+        },
+        "nld": {
+            "official": "Tsjechische Republiek",
+            "common": "Tsjechi\u00eb"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9",
+            "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0686\u06a9"
+        },
+        "pol": {
+            "official": "Republika Czeska",
+            "common": "Czechy"
+        },
+        "por": {
+            "official": "Rep\u00fablica Checa",
+            "common": "Ch\u00e9quia"
+        },
+        "rus": {
+            "official": "\u0427\u0435\u0448\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "common": "\u0427\u0435\u0445\u0438\u044f"
+        },
+        "slk": {
+            "official": "\u010cesk\u00e1 republika",
+            "common": "\u010cesko"
+        },
+        "spa": {
+            "official": "Rep\u00fablica Checa",
+            "common": "Chequia"
+        },
+        "swe": {
+            "official": "Republiken Tjeckien",
+            "common": "Tjeckien"
+        },
+        "urd": {
+            "official": "\u0686\u064a\u06a9 \u062c\u0645\u06c1\u0648\u0631\u064a\u06c1",
+            "common": "\u0686\u064a\u06a9"
+        },
+        "zho": {
+            "official": "\u6377\u514b\u5171\u548c\u56fd",
+            "common": "\u6377\u514b"
+        }
+    },
+    "latlng": [
+        49.75,
+        15.5
+    ],
+    "landlocked": true,
+    "borders": [
+        "AUT",
+        "DEU",
+        "POL",
+        "SVK"
+    ],
+    "area": 78865,
+    "flag": "\ud83c\udde8\ud83c\uddff",
+    "demonyms": {
+        "eng": {
+            "f": "Czech",
+            "m": "Czech"
+        },
+        "fra": {
+            "f": "Tch\u00e8que",
+            "m": "Tch\u00e8que"
+        }
+    }
+}

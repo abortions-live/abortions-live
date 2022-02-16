@@ -1,0 +1,153 @@
+{
+    "name": {
+        "common": "American Samoa",
+        "official": "American Samoa",
+        "native": {
+            "eng": {
+                "official": "American Samoa",
+                "common": "American Samoa"
+            },
+            "smo": {
+                "official": "S\u0101moa Amelika",
+                "common": "S\u0101moa Amelika"
+            }
+        }
+    },
+    "tld": [
+        ".as"
+    ],
+    "cca2": "AS",
+    "ccn3": "016",
+    "cca3": "ASM",
+    "cioc": "ASA",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "684"
+        ]
+    },
+    "capital": [
+        "Pago Pago"
+    ],
+    "altSpellings": [
+        "AS",
+        "Amerika S\u0101moa",
+        "Amelika S\u0101moa",
+        "S\u0101moa Amelika"
+    ],
+    "region": "Oceania",
+    "subregion": "Polynesia",
+    "languages": {
+        "eng": "English",
+        "smo": "Samoan"
+    },
+    "translations": {
+        "ces": {
+            "official": "Americk\u00e1 Samoa",
+            "common": "Americk\u00e1 Samoa"
+        },
+        "deu": {
+            "official": "Amerikanisch-Samoa",
+            "common": "Amerikanisch-Samoa"
+        },
+        "est": {
+            "official": "Ameerika Samoa",
+            "common": "Ameerika Samoa"
+        },
+        "fin": {
+            "official": "Amerikan Samoa",
+            "common": "Amerikan Samoa"
+        },
+        "fra": {
+            "official": "Samoa am\u00e9ricaines",
+            "common": "Samoa am\u00e9ricaines"
+        },
+        "hrv": {
+            "official": "ameri\u010dka Samoa",
+            "common": "Ameri\u010dka Samoa"
+        },
+        "hun": {
+            "official": "Szamoa",
+            "common": "Szamoa"
+        },
+        "ita": {
+            "official": "Samoa americane",
+            "common": "Samoa Americane"
+        },
+        "jpn": {
+            "official": "\u7c73\u30b5\u30e2\u30a2",
+            "common": "\u30a2\u30e1\u30ea\u30ab\u9818\u30b5\u30e2\u30a2"
+        },
+        "kor": {
+            "official": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544",
+            "common": "\uc544\uba54\ub9ac\uce78\uc0ac\ubaa8\uc544"
+        },
+        "nld": {
+            "official": "Amerikaans Samoa",
+            "common": "Amerikaans Samoa"
+        },
+        "per": {
+            "official": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627",
+            "common": "\u0633\u0627\u0645\u0648\u0622\u06cc \u0622\u0645\u0631\u06cc\u06a9\u0627"
+        },
+        "pol": {
+            "official": "Samoa Ameryka\u0144skie",
+            "common": "Samoa Ameryka\u0144skie"
+        },
+        "por": {
+            "official": "Samoa americana",
+            "common": "Samoa Americana"
+        },
+        "rus": {
+            "official": "\u0430\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430",
+            "common": "\u0410\u043c\u0435\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u043e\u0435 \u0421\u0430\u043c\u043e\u0430"
+        },
+        "slk": {
+            "official": "Americk\u00e1 Samoa",
+            "common": "Americk\u00e1 Samoa"
+        },
+        "spa": {
+            "official": "Samoa Americana",
+            "common": "Samoa Americana"
+        },
+        "swe": {
+            "official": "Amerikanska Samoa",
+            "common": "Amerikanska Samoa"
+        },
+        "urd": {
+            "official": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627",
+            "common": "\u0627\u0645\u0631\u06cc\u06a9\u06cc \u0633\u0645\u0648\u0648\u0627"
+        },
+        "zho": {
+            "official": "\u7f8e\u5c5e\u8428\u6469\u4e9a",
+            "common": "\u7f8e\u5c5e\u8428\u6469\u4e9a"
+        }
+    },
+    "latlng": [
+        -14.33333333,
+        -170
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 199,
+    "flag": "\ud83c\udde6\ud83c\uddf8",
+    "demonyms": {
+        "eng": {
+            "f": "American Samoan",
+            "m": "American Samoan"
+        },
+        "fra": {
+            "f": "Samoane",
+            "m": "Samoan"
+        }
+    }
+}

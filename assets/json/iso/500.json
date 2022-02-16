@@ -1,0 +1,145 @@
+{
+    "name": {
+        "common": "Montserrat",
+        "official": "Montserrat",
+        "native": {
+            "eng": {
+                "official": "Montserrat",
+                "common": "Montserrat"
+            }
+        }
+    },
+    "tld": [
+        ".ms"
+    ],
+    "cca2": "MS",
+    "ccn3": "500",
+    "cca3": "MSR",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "XCD": {
+            "name": "Eastern Caribbean dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "664"
+        ]
+    },
+    "capital": [
+        "Plymouth"
+    ],
+    "altSpellings": [
+        "MS"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "deu": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "est": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "fin": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "fra": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "hrv": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "hun": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "ita": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "jpn": {
+            "official": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8",
+            "common": "\u30e2\u30f3\u30c8\u30bb\u30e9\u30c8"
+        },
+        "kor": {
+            "official": "\ubaac\ud2b8\uc138\ub7ab",
+            "common": "\ubaac\ud2b8\uc138\ub7ab"
+        },
+        "nld": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "per": {
+            "official": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a",
+            "common": "\u0645\u0648\u0646\u062a\u0633\u0631\u0627\u062a"
+        },
+        "pol": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "por": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "rus": {
+            "official": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442",
+            "common": "\u041c\u043e\u043d\u0442\u0441\u0435\u0440\u0440\u0430\u0442"
+        },
+        "slk": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "spa": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "swe": {
+            "official": "Montserrat",
+            "common": "Montserrat"
+        },
+        "urd": {
+            "official": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679",
+            "common": "\u0645\u0627\u0646\u0679\u0633\u0631\u06cc\u0679"
+        },
+        "zho": {
+            "official": "\u8499\u7279\u585e\u62c9\u7279",
+            "common": "\u8499\u7279\u585e\u62c9\u7279"
+        }
+    },
+    "latlng": [
+        16.75,
+        -62.2
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 102,
+    "flag": "\ud83c\uddf2\ud83c\uddf8",
+    "demonyms": {
+        "eng": {
+            "f": "Montserratian",
+            "m": "Montserratian"
+        },
+        "fra": {
+            "f": "Montserratienne",
+            "m": "Montserratien"
+        }
+    }
+}

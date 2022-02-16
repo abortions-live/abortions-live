@@ -1,0 +1,157 @@
+{
+    "name": {
+        "common": "Isle of Man",
+        "official": "Isle of Man",
+        "native": {
+            "eng": {
+                "official": "Isle of Man",
+                "common": "Isle of Man"
+            },
+            "glv": {
+                "official": "Ellan Vannin or Mannin",
+                "common": "Mannin"
+            }
+        }
+    },
+    "tld": [
+        ".im"
+    ],
+    "cca2": "IM",
+    "ccn3": "833",
+    "cca3": "IMN",
+    "cioc": "",
+    "independent": false,
+    "status": "officially-assigned",
+    "unMember": false,
+    "currencies": {
+        "GBP": {
+            "name": "British pound",
+            "symbol": "\u00a3"
+        },
+        "IMP": {
+            "name": "Manx pound",
+            "symbol": "\u00a3"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Douglas"
+    ],
+    "altSpellings": [
+        "IM",
+        "Ellan Vannin",
+        "Mann",
+        "Mannin"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "eng": "English",
+        "glv": "Manx"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ostrov Man",
+            "common": "Ostrov Man"
+        },
+        "deu": {
+            "official": "Isle of Man",
+            "common": "Insel Man"
+        },
+        "est": {
+            "official": "Mani saar",
+            "common": "Mani saar"
+        },
+        "fin": {
+            "official": "Mansaari",
+            "common": "Mansaari"
+        },
+        "fra": {
+            "official": "Isle of Man",
+            "common": "\u00cele de Man"
+        },
+        "hrv": {
+            "official": "Mana ostrvo",
+            "common": "Otok Man"
+        },
+        "hun": {
+            "official": "Man",
+            "common": "Man"
+        },
+        "ita": {
+            "official": "Isola di Man",
+            "common": "Isola di Man"
+        },
+        "jpn": {
+            "official": "\u30de\u30f3\u5cf6",
+            "common": "\u30de\u30f3\u5cf6"
+        },
+        "kor": {
+            "official": "\ub9e8\uc12c",
+            "common": "\ub9e8\uc12c"
+        },
+        "nld": {
+            "official": "Isle of Man",
+            "common": "Isle of Man"
+        },
+        "per": {
+            "official": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646",
+            "common": "\u062c\u0632\u06cc\u0631\u0647\u0654 \u0645\u064e\u0646"
+        },
+        "pol": {
+            "official": "Wyspa Man",
+            "common": "Wyspa Man"
+        },
+        "por": {
+            "official": "Isle of Man",
+            "common": "Ilha de Man"
+        },
+        "rus": {
+            "official": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d",
+            "common": "\u041e\u0441\u0442\u0440\u043e\u0432 \u041c\u044d\u043d"
+        },
+        "slk": {
+            "official": "Ostrov Man",
+            "common": "Man"
+        },
+        "spa": {
+            "official": "Isla de Man",
+            "common": "Isla de Man"
+        },
+        "swe": {
+            "official": "Isle of Man",
+            "common": "Isle of Man"
+        },
+        "urd": {
+            "official": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646",
+            "common": "\u0622\u0626\u0644 \u0622\u0641 \u0645\u06cc\u0646"
+        },
+        "zho": {
+            "official": "\u9a6c\u6069\u5c9b",
+            "common": "\u9a6c\u6069\u5c9b"
+        }
+    },
+    "latlng": [
+        54.25,
+        -4.5
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 572,
+    "flag": "\ud83c\uddee\ud83c\uddf2",
+    "demonyms": {
+        "eng": {
+            "f": "Manx",
+            "m": "Manx"
+        },
+        "fra": {
+            "f": "",
+            "m": ""
+        }
+    }
+}

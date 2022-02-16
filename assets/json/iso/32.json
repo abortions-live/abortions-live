@@ -1,0 +1,162 @@
+{
+    "name": {
+        "common": "Argentina",
+        "official": "Argentine Republic",
+        "native": {
+            "grn": {
+                "official": "Argentine Republic",
+                "common": "Argentina"
+            },
+            "spa": {
+                "official": "Rep\u00fablica Argentina",
+                "common": "Argentina"
+            }
+        }
+    },
+    "tld": [
+        ".ar"
+    ],
+    "cca2": "AR",
+    "ccn3": "032",
+    "cca3": "ARG",
+    "cioc": "ARG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "ARS": {
+            "name": "Argentine peso",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "4"
+        ]
+    },
+    "capital": [
+        "Buenos Aires"
+    ],
+    "altSpellings": [
+        "AR",
+        "Argentine Republic",
+        "Rep\u00fablica Argentina"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "grn": "Guaran\u00ed",
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Argentinsk\u00e1 republika",
+            "common": "Argentina"
+        },
+        "cym": {
+            "official": "Gweriniaeth yr Ariannin",
+            "common": "Ariannin"
+        },
+        "deu": {
+            "official": "Argentinische Republik",
+            "common": "Argentinien"
+        },
+        "est": {
+            "official": "Argentina Vabariik",
+            "common": "Argentina"
+        },
+        "fin": {
+            "official": "Argentiinan tasavalta",
+            "common": "Argentiina"
+        },
+        "fra": {
+            "official": "R\u00e9publique argentine",
+            "common": "Argentine"
+        },
+        "hrv": {
+            "official": "Argentinski Republika",
+            "common": "Argentina"
+        },
+        "hun": {
+            "official": "Argentin K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Argent\u00edna"
+        },
+        "ita": {
+            "official": "Repubblica Argentina",
+            "common": "Argentina"
+        },
+        "jpn": {
+            "official": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3\u5171\u548c\u56fd",
+            "common": "\u30a2\u30eb\u30bc\u30f3\u30c1\u30f3"
+        },
+        "kor": {
+            "official": "\uc544\ub974\ud5e8\ud2f0\ub098 \uacf5\ud654\uad6d",
+            "common": "\uc544\ub974\ud5e8\ud2f0\ub098"
+        },
+        "nld": {
+            "official": "Argentijnse Republiek",
+            "common": "Argentini\u00eb"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646",
+            "common": "\u0622\u0631\u0698\u0627\u0646\u062a\u06cc\u0646"
+        },
+        "pol": {
+            "official": "Republika Argenty\u0144ska",
+            "common": "Argentyna"
+        },
+        "por": {
+            "official": "Rep\u00fablica Argentina",
+            "common": "Argentina"
+        },
+        "rus": {
+            "official": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "common": "\u0410\u0440\u0433\u0435\u043d\u0442\u0438\u043d\u0430"
+        },
+        "slk": {
+            "official": "Argent\u00ednska republika",
+            "common": "Argent\u00edna"
+        },
+        "spa": {
+            "official": "Rep\u00fablica Argentina",
+            "common": "Argentina"
+        },
+        "swe": {
+            "official": "Republiken Argentina",
+            "common": "Argentina"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646",
+            "common": "\u0627\u0631\u062c\u0646\u0679\u0627\u0626\u0646"
+        },
+        "zho": {
+            "official": "\u963f\u6839\u5ef7\u5171\u548c\u56fd",
+            "common": "\u963f\u6839\u5ef7"
+        }
+    },
+    "latlng": [
+        -34,
+        -64
+    ],
+    "landlocked": false,
+    "borders": [
+        "BOL",
+        "BRA",
+        "CHL",
+        "PRY",
+        "URY"
+    ],
+    "area": 2780400,
+    "flag": "\ud83c\udde6\ud83c\uddf7",
+    "demonyms": {
+        "eng": {
+            "f": "Argentine",
+            "m": "Argentine"
+        },
+        "fra": {
+            "f": "Argentine",
+            "m": "Argentin"
+        }
+    }
+}

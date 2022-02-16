@@ -1,0 +1,151 @@
+{
+    "name": {
+        "common": "Georgia",
+        "official": "Georgia",
+        "native": {
+            "kat": {
+                "official": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+                "common": "\u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd"
+            }
+        }
+    },
+    "tld": [
+        ".ge"
+    ],
+    "cca2": "GE",
+    "ccn3": "268",
+    "cca3": "GEO",
+    "cioc": "GEO",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "GEL": {
+            "name": "lari",
+            "symbol": "\u20be"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "95"
+        ]
+    },
+    "capital": [
+        "Tbilisi"
+    ],
+    "altSpellings": [
+        "GE",
+        "Sakartvelo"
+    ],
+    "region": "Asia",
+    "subregion": "Western Asia",
+    "languages": {
+        "kat": "Georgian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Gruzie",
+            "common": "Gruzie"
+        },
+        "deu": {
+            "official": "Georgien",
+            "common": "Georgien"
+        },
+        "est": {
+            "official": "Gruusia",
+            "common": "Gruusia"
+        },
+        "fin": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "fra": {
+            "official": "R\u00e9publique de G\u00e9orgie",
+            "common": "G\u00e9orgie"
+        },
+        "hrv": {
+            "official": "Gruzija",
+            "common": "Gruzija"
+        },
+        "hun": {
+            "official": "Gr\u00fazia",
+            "common": "Gr\u00fazia"
+        },
+        "ita": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "jpn": {
+            "official": "\u30b0\u30eb\u30b8\u30a2",
+            "common": "\u30b0\u30eb\u30b8\u30a2"
+        },
+        "kor": {
+            "official": "\uc870\uc9c0\uc544",
+            "common": "\uc870\uc9c0\uc544"
+        },
+        "nld": {
+            "official": "Georgia",
+            "common": "Georgi\u00eb"
+        },
+        "per": {
+            "official": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646",
+            "common": "\u06af\u0631\u062c\u0633\u062a\u0627\u0646"
+        },
+        "pol": {
+            "official": "Gruzja",
+            "common": "Gruzja"
+        },
+        "por": {
+            "official": "Georgia",
+            "common": "Ge\u00f3rgia"
+        },
+        "rus": {
+            "official": "\u0413\u0440\u0443\u0437\u0438\u044f",
+            "common": "\u0413\u0440\u0443\u0437\u0438\u044f"
+        },
+        "slk": {
+            "official": "Gruz\u00ednsko",
+            "common": "Gruz\u00ednsko"
+        },
+        "spa": {
+            "official": "Georgia",
+            "common": "Georgia"
+        },
+        "swe": {
+            "official": "Georgien",
+            "common": "Georgien"
+        },
+        "urd": {
+            "official": "\u062c\u0627\u0631\u062c\u06cc\u0627",
+            "common": "\u062c\u0627\u0631\u062c\u06cc\u0627"
+        },
+        "zho": {
+            "official": "\u683c\u9c81\u5409\u4e9a",
+            "common": "\u683c\u9c81\u5409\u4e9a"
+        }
+    },
+    "latlng": [
+        42,
+        43.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "ARM",
+        "AZE",
+        "RUS",
+        "TUR"
+    ],
+    "area": 69700,
+    "flag": "\ud83c\uddec\ud83c\uddea",
+    "demonyms": {
+        "eng": {
+            "f": "Georgian",
+            "m": "Georgian"
+        },
+        "fra": {
+            "f": "G\u00e9orgienne",
+            "m": "G\u00e9orgien"
+        }
+    }
+}

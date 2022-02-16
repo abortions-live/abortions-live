@@ -1,0 +1,155 @@
+{
+    "name": {
+        "common": "Ivory Coast",
+        "official": "Republic of C\u00f4te d'Ivoire",
+        "native": {
+            "fra": {
+                "official": "R\u00e9publique de C\u00f4te d'Ivoire",
+                "common": "C\u00f4te d'Ivoire"
+            }
+        }
+    },
+    "tld": [
+        ".ci"
+    ],
+    "cca2": "CI",
+    "ccn3": "384",
+    "cca3": "CIV",
+    "cioc": "CIV",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XOF": {
+            "name": "West African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "25"
+        ]
+    },
+    "capital": [
+        "Yamoussoukro"
+    ],
+    "altSpellings": [
+        "CI",
+        "C\u00f4te d'Ivoire",
+        "Ivory Coast",
+        "Republic of C\u00f4te d'Ivoire",
+        "R\u00e9publique de C\u00f4te d'Ivoire"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "fra": "French"
+    },
+    "translations": {
+        "ces": {
+            "official": "Republika Pob\u0159e\u017e\u00ed slonoviny",
+            "common": "Pob\u0159e\u017e\u00ed slonoviny"
+        },
+        "deu": {
+            "official": "Republik C\u00f4te d'Ivoire",
+            "common": "Elfenbeink\u00fcste"
+        },
+        "est": {
+            "official": "C\u00f4te d\u2019Ivoire\u2019i Vabariik",
+            "common": "Elevandiluurannik"
+        },
+        "fin": {
+            "official": "Norsunluurannikon tasavalta",
+            "common": "Norsunluurannikko"
+        },
+        "fra": {
+            "official": "R\u00e9publique de C\u00f4te d' Ivoire",
+            "common": "C\u00f4te d'Ivoire"
+        },
+        "hrv": {
+            "official": "Republika C\u00f4te d'Ivoire",
+            "common": "Obala Bjelokosti"
+        },
+        "hun": {
+            "official": "Elef\u00e1ntcsontparti K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Elef\u00e1ntcsontpart"
+        },
+        "ita": {
+            "official": "Repubblica della Costa d'Avorio",
+            "common": "Costa d'Avorio"
+        },
+        "jpn": {
+            "official": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb\u5171\u548c\u56fd",
+            "common": "\u30b3\u30fc\u30c8\u30b8\u30dc\u30ef\u30fc\u30eb"
+        },
+        "kor": {
+            "official": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974 \uacf5\ud654\uad6d",
+            "common": "\ucf54\ud2b8\ub514\ubd80\uc544\ub974"
+        },
+        "nld": {
+            "official": "Republiek Ivoorkust",
+            "common": "Ivoorkust"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0633\u0627\u062d\u0644 \u0639\u0627\u062c",
+            "common": "\u0633\u0627\u062d\u0644 \u0639\u0627\u062c"
+        },
+        "pol": {
+            "official": "Republika Wybrze\u017ba Ko\u015bci S\u0142oniowej",
+            "common": "Wybrze\u017be Ko\u015bci S\u0142oniowej"
+        },
+        "por": {
+            "official": "Rep\u00fablica da C\u00f4te d'Ivoire",
+            "common": "Costa do Marfim"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u0442-\u0434'\u0418\u0432\u0443\u0430\u0440\u0435",
+            "common": "\u041a\u043e\u0442-\u0434\u2019\u0418\u0432\u0443\u0430\u0440"
+        },
+        "slk": {
+            "official": "Republika Pobre\u017eie Slonoviny",
+            "common": "Pobr\u017eie Slonoviny"
+        },
+        "spa": {
+            "official": "Rep\u00fablica de C\u00f4te d'Ivoire",
+            "common": "Costa de Marfil"
+        },
+        "swe": {
+            "official": "Republiken Elfenbenskusten",
+            "common": "Elfenbenskusten"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0648\u062a \u062f\u06cc\u0648\u0627\u063a",
+            "common": "\u0622\u0626\u06cc\u0648\u0631\u06cc \u06a9\u0648\u0633\u0679"
+        },
+        "zho": {
+            "official": "\u79d1\u7279\u8fea\u74e6\u5171\u548c\u56fd",
+            "common": "\u79d1\u7279\u8fea\u74e6"
+        }
+    },
+    "latlng": [
+        8,
+        -5
+    ],
+    "landlocked": false,
+    "borders": [
+        "BFA",
+        "GHA",
+        "GIN",
+        "LBR",
+        "MLI"
+    ],
+    "area": 322463,
+    "flag": "\ud83c\udde8\ud83c\uddee",
+    "demonyms": {
+        "eng": {
+            "f": "Ivorian",
+            "m": "Ivorian"
+        },
+        "fra": {
+            "f": "Ivoirienne",
+            "m": "Ivoirien"
+        }
+    }
+}

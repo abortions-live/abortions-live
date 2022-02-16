@@ -1,0 +1,148 @@
+{
+    "name": {
+        "common": "Japan",
+        "official": "Japan",
+        "native": {
+            "jpn": {
+                "official": "\u65e5\u672c",
+                "common": "\u65e5\u672c"
+            }
+        }
+    },
+    "tld": [
+        ".jp",
+        ".\u307f\u3093\u306a"
+    ],
+    "cca2": "JP",
+    "ccn3": "392",
+    "cca3": "JPN",
+    "cioc": "JPN",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "JPY": {
+            "name": "Japanese yen",
+            "symbol": "\u00a5"
+        }
+    },
+    "idd": {
+        "root": "+8",
+        "suffixes": [
+            "1"
+        ]
+    },
+    "capital": [
+        "Tokyo"
+    ],
+    "altSpellings": [
+        "JP",
+        "Nippon",
+        "Nihon"
+    ],
+    "region": "Asia",
+    "subregion": "Eastern Asia",
+    "languages": {
+        "jpn": "Japanese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Japonsko",
+            "common": "Japonsko"
+        },
+        "deu": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "est": {
+            "official": "Jaapan",
+            "common": "Jaapan"
+        },
+        "fin": {
+            "official": "Japani",
+            "common": "Japani"
+        },
+        "fra": {
+            "official": "Japon",
+            "common": "Japon"
+        },
+        "hrv": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "hun": {
+            "official": "Jap\u00e1n",
+            "common": "Jap\u00e1n"
+        },
+        "ita": {
+            "official": "Giappone",
+            "common": "Giappone"
+        },
+        "jpn": {
+            "official": "\u65e5\u672c",
+            "common": "\u65e5\u672c"
+        },
+        "kor": {
+            "official": "\uc77c\ubcf8\uad6d",
+            "common": "\uc77c\ubcf8"
+        },
+        "nld": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "per": {
+            "official": "\u0698\u0627\u067e\u0646",
+            "common": "\u0698\u0627\u067e\u0646"
+        },
+        "pol": {
+            "official": "Japonia",
+            "common": "Japonia"
+        },
+        "por": {
+            "official": "Jap\u00e3o",
+            "common": "Jap\u00e3o"
+        },
+        "rus": {
+            "official": "\u042f\u043f\u043e\u043d\u0438\u044f",
+            "common": "\u042f\u043f\u043e\u043d\u0438\u044f"
+        },
+        "slk": {
+            "official": "Japonsko",
+            "common": "Japonsko"
+        },
+        "spa": {
+            "official": "Jap\u00f3n",
+            "common": "Jap\u00f3n"
+        },
+        "swe": {
+            "official": "Japan",
+            "common": "Japan"
+        },
+        "urd": {
+            "official": "\u062c\u0627\u067e\u0627\u0646",
+            "common": "\u062c\u0627\u067e\u0627\u0646"
+        },
+        "zho": {
+            "official": "\u65e5\u672c\u56fd",
+            "common": "\u65e5\u672c"
+        }
+    },
+    "latlng": [
+        36,
+        138
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 377930,
+    "flag": "\ud83c\uddef\ud83c\uddf5",
+    "demonyms": {
+        "eng": {
+            "f": "Japanese",
+            "m": "Japanese"
+        },
+        "fra": {
+            "f": "Japonaise",
+            "m": "Japonais"
+        }
+    }
+}

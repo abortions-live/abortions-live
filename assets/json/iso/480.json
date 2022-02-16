@@ -1,0 +1,157 @@
+{
+    "name": {
+        "common": "Mauritius",
+        "official": "Republic of Mauritius",
+        "native": {
+            "eng": {
+                "official": "Republic of Mauritius",
+                "common": "Mauritius"
+            },
+            "fra": {
+                "official": "R\u00e9publique de Maurice",
+                "common": "Maurice"
+            },
+            "mfe": {
+                "official": "Republik Moris",
+                "common": "Moris"
+            }
+        }
+    },
+    "tld": [
+        ".mu"
+    ],
+    "cca2": "MU",
+    "ccn3": "480",
+    "cca3": "MUS",
+    "cioc": "MRI",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "MUR": {
+            "name": "Mauritian rupee",
+            "symbol": "\u20a8"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "30"
+        ]
+    },
+    "capital": [
+        "Port Louis"
+    ],
+    "altSpellings": [
+        "MU",
+        "Republic of Mauritius",
+        "R\u00e9publique de Maurice"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English",
+        "fra": "French",
+        "mfe": "Mauritian Creole"
+    },
+    "translations": {
+        "ces": {
+            "official": "Mauricijsk\u00e1 republika",
+            "common": "Mauricius"
+        },
+        "deu": {
+            "official": "Republik Mauritius",
+            "common": "Mauritius"
+        },
+        "est": {
+            "official": "Mauritiuse Vabariik",
+            "common": "Mauritius"
+        },
+        "fin": {
+            "official": "Mauritiuksen tasavalta",
+            "common": "Mauritius"
+        },
+        "fra": {
+            "official": "R\u00e9publique de Maurice",
+            "common": "\u00cele Maurice"
+        },
+        "hrv": {
+            "official": "Republika Mauricijus",
+            "common": "Mauricijus"
+        },
+        "hun": {
+            "official": "Mauritiusi K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Mauritius"
+        },
+        "ita": {
+            "official": "Repubblica di Mauritius",
+            "common": "Mauritius"
+        },
+        "jpn": {
+            "official": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9\u5171\u548c\u56fd",
+            "common": "\u30e2\u30fc\u30ea\u30b7\u30e3\u30b9"
+        },
+        "kor": {
+            "official": "\ubaa8\ub9ac\uc154\uc2a4 \uacf5\ud654\uad6d",
+            "common": "\ubaa8\ub9ac\uc154\uc2a4"
+        },
+        "nld": {
+            "official": "Republiek Mauritius",
+            "common": "Mauritius"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0631\u06cc\u0633",
+            "common": "\u0645\u0648\u0631\u06cc\u0633"
+        },
+        "pol": {
+            "official": "Republika Mauritiusu",
+            "common": "Mauritius"
+        },
+        "por": {
+            "official": "Rep\u00fablica das Maur\u00edcias",
+            "common": "Maur\u00edcio"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439",
+            "common": "\u041c\u0430\u0432\u0440\u0438\u043a\u0438\u0439"
+        },
+        "slk": {
+            "official": "Maur\u00edcijsk\u00e1 republika",
+            "common": "Maur\u00edcius"
+        },
+        "spa": {
+            "official": "Rep\u00fablica de Mauricio",
+            "common": "Mauricio"
+        },
+        "swe": {
+            "official": "Republiken Mauritius",
+            "common": "Mauritius"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0631\u06cc\u0634\u0633",
+            "common": "\u0645\u0648\u0631\u06cc\u0634\u0633"
+        },
+        "zho": {
+            "official": "\u6bdb\u91cc\u6c42\u65af\u5171\u548c\u56fd",
+            "common": "\u6bdb\u91cc\u6c42\u65af"
+        }
+    },
+    "latlng": [
+        -20.28333333,
+        57.55
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 2040,
+    "flag": "\ud83c\uddf2\ud83c\uddfa",
+    "demonyms": {
+        "eng": {
+            "f": "Mauritian",
+            "m": "Mauritian"
+        },
+        "fra": {
+            "f": "Mauricienne",
+            "m": "Mauricien"
+        }
+    }
+}

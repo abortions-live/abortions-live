@@ -1,0 +1,159 @@
+{
+    "name": {
+        "common": "Kyrgyzstan",
+        "official": "Kyrgyz Republic",
+        "native": {
+            "kir": {
+                "official": "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+                "common": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d"
+            },
+            "rus": {
+                "official": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+                "common": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"
+            }
+        }
+    },
+    "tld": [
+        ".kg"
+    ],
+    "cca2": "KG",
+    "ccn3": "417",
+    "cca3": "KGZ",
+    "cioc": "KGZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "KGS": {
+            "name": "Kyrgyzstani som",
+            "symbol": "\u0441"
+        }
+    },
+    "idd": {
+        "root": "+9",
+        "suffixes": [
+            "96"
+        ]
+    },
+    "capital": [
+        "Bishkek"
+    ],
+    "altSpellings": [
+        "KG",
+        "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f",
+        "Kyrgyz Republic",
+        "\u041a\u044b\u0440\u0433\u044b\u0437 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430\u0441\u044b",
+        "Kyrgyz Respublikasy"
+    ],
+    "region": "Asia",
+    "subregion": "Central Asia",
+    "languages": {
+        "kir": "Kyrgyz",
+        "rus": "Russian"
+    },
+    "translations": {
+        "ces": {
+            "official": "Kyrgyzsk\u00e1 republika",
+            "common": "Kyrgyzst\u00e1n"
+        },
+        "deu": {
+            "official": "Kirgisische Republik",
+            "common": "Kirgisistan"
+        },
+        "est": {
+            "official": "Kirgiisi Vabariik",
+            "common": "K\u00f5rg\u00f5zstan"
+        },
+        "fin": {
+            "official": "Kirgisian tasavalta",
+            "common": "Kirgisia"
+        },
+        "fra": {
+            "official": "R\u00e9publique kirghize",
+            "common": "Kirghizistan"
+        },
+        "hrv": {
+            "official": "Kirgistanu",
+            "common": "Kirgistan"
+        },
+        "hun": {
+            "official": "Kirgiz K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Kirgiziszt\u00e1n"
+        },
+        "ita": {
+            "official": "Kirghizistan",
+            "common": "Kirghizistan"
+        },
+        "jpn": {
+            "official": "\u30ad\u30eb\u30ae\u30b9\u5171\u548c\u56fd",
+            "common": "\u30ad\u30eb\u30ae\u30b9"
+        },
+        "kor": {
+            "official": "\ud0a4\ub974\uae30\uc2a4 \uacf5\ud654\uad6d",
+            "common": "\ud0a4\ub974\uae30\uc2a4\uc2a4\ud0c4"
+        },
+        "nld": {
+            "official": "Kirgizische Republiek",
+            "common": "Kirgizi\u00eb"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0642\u0650\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646",
+            "common": "\u0642\u0631\u0642\u06cc\u0632\u0633\u062a\u0627\u0646"
+        },
+        "pol": {
+            "official": "Republika Kirgiska",
+            "common": "Kirgistan"
+        },
+        "por": {
+            "official": "Rep\u00fablica do Quirguist\u00e3o",
+            "common": "Quirguist\u00e3o"
+        },
+        "rus": {
+            "official": "\u041a\u044b\u0440\u0433\u044b\u0437\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "common": "\u041a\u0438\u0440\u0433\u0438\u0437\u0438\u044f"
+        },
+        "slk": {
+            "official": "Kirgizsk\u00e1 republika",
+            "common": "Kirgizsko"
+        },
+        "spa": {
+            "official": "Rep\u00fablica Kirguisa",
+            "common": "Kirguizist\u00e1n"
+        },
+        "swe": {
+            "official": "Republiken Kirgizistan",
+            "common": "Kirgizistan"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646",
+            "common": "\u06a9\u0631\u063a\u06cc\u0632\u0633\u062a\u0627\u0646"
+        },
+        "zho": {
+            "official": "\u5409\u5c14\u5409\u65af\u65af\u5766\u5171\u548c\u56fd",
+            "common": "\u5409\u5c14\u5409\u65af\u65af\u5766"
+        }
+    },
+    "latlng": [
+        41,
+        75
+    ],
+    "landlocked": true,
+    "borders": [
+        "CHN",
+        "KAZ",
+        "TJK",
+        "UZB"
+    ],
+    "area": 199951,
+    "flag": "\ud83c\uddf0\ud83c\uddec",
+    "demonyms": {
+        "eng": {
+            "f": "Kirghiz",
+            "m": "Kirghiz"
+        },
+        "fra": {
+            "f": "Kirghize",
+            "m": "Kirghize"
+        }
+    }
+}

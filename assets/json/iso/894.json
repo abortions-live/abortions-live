@@ -1,0 +1,155 @@
+{
+    "name": {
+        "common": "Zambia",
+        "official": "Republic of Zambia",
+        "native": {
+            "eng": {
+                "official": "Republic of Zambia",
+                "common": "Zambia"
+            }
+        }
+    },
+    "tld": [
+        ".zm"
+    ],
+    "cca2": "ZM",
+    "ccn3": "894",
+    "cca3": "ZMB",
+    "cioc": "ZAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "ZMW": {
+            "name": "Zambian kwacha",
+            "symbol": "ZK"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "60"
+        ]
+    },
+    "capital": [
+        "Lusaka"
+    ],
+    "altSpellings": [
+        "ZM",
+        "Republic of Zambia"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Zambijsk\u00e1 republika",
+            "common": "Zambie"
+        },
+        "deu": {
+            "official": "Republik Sambia",
+            "common": "Sambia"
+        },
+        "est": {
+            "official": "Sambia Vabariik",
+            "common": "Sambia"
+        },
+        "fin": {
+            "official": "Sambian tasavalta",
+            "common": "Sambia"
+        },
+        "fra": {
+            "official": "R\u00e9publique de Zambie",
+            "common": "Zambie"
+        },
+        "hrv": {
+            "official": "Republika Zambija",
+            "common": "Zambija"
+        },
+        "hun": {
+            "official": "Zambiai K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Zambia"
+        },
+        "ita": {
+            "official": "Repubblica di Zambia",
+            "common": "Zambia"
+        },
+        "jpn": {
+            "official": "\u30b6\u30f3\u30d3\u30a2\u5171\u548c\u56fd",
+            "common": "\u30b6\u30f3\u30d3\u30a2"
+        },
+        "kor": {
+            "official": "\uc7a0\ube44\uc544 \uacf5\ud654\uad6d",
+            "common": "\uc7a0\ube44\uc544"
+        },
+        "nld": {
+            "official": "Republiek Zambia",
+            "common": "Zambia"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0632\u0627\u0645\u0628\u06cc\u0627",
+            "common": "\u0632\u0627\u0645\u0628\u06cc\u0627"
+        },
+        "pol": {
+            "official": "Republika Zambii",
+            "common": "Zambia"
+        },
+        "por": {
+            "official": "Rep\u00fablica da Z\u00e2mbia",
+            "common": "Z\u00e2mbia"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0417\u0430\u043c\u0431\u0438\u044f",
+            "common": "\u0417\u0430\u043c\u0431\u0438\u044f"
+        },
+        "slk": {
+            "official": "Zambijsk\u00e1 republika",
+            "common": "Zambia"
+        },
+        "spa": {
+            "official": "Rep\u00fablica de Zambia",
+            "common": "Zambia"
+        },
+        "swe": {
+            "official": "Republiken Zambia",
+            "common": "Zambia"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0632\u06cc\u0645\u0628\u06cc\u0627",
+            "common": "\u0632\u06cc\u0645\u0628\u06cc\u0627"
+        },
+        "zho": {
+            "official": "\u8d5e\u6bd4\u4e9a\u5171\u548c\u56fd",
+            "common": "\u8d5e\u6bd4\u4e9a"
+        }
+    },
+    "latlng": [
+        -15,
+        30
+    ],
+    "landlocked": true,
+    "borders": [
+        "AGO",
+        "BWA",
+        "COD",
+        "MWI",
+        "MOZ",
+        "NAM",
+        "TZA",
+        "ZWE"
+    ],
+    "area": 752612,
+    "flag": "\ud83c\uddff\ud83c\uddf2",
+    "demonyms": {
+        "eng": {
+            "f": "Zambian",
+            "m": "Zambian"
+        },
+        "fra": {
+            "f": "Zambienne",
+            "m": "Zambien"
+        }
+    }
+}

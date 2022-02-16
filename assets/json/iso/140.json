@@ -1,0 +1,163 @@
+{
+    "name": {
+        "common": "Central African Republic",
+        "official": "Central African Republic",
+        "native": {
+            "fra": {
+                "official": "R\u00e9publique centrafricaine",
+                "common": "R\u00e9publique centrafricaine"
+            },
+            "sag": {
+                "official": "K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka",
+                "common": "B\u00eaafr\u00eeka"
+            }
+        }
+    },
+    "tld": [
+        ".cf"
+    ],
+    "cca2": "CF",
+    "ccn3": "140",
+    "cca3": "CAF",
+    "cioc": "CAF",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "XAF": {
+            "name": "Central African CFA franc",
+            "symbol": "Fr"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "36"
+        ]
+    },
+    "capital": [
+        "Bangui"
+    ],
+    "altSpellings": [
+        "CF",
+        "Central African Republic",
+        "R\u00e9publique centrafricaine"
+    ],
+    "region": "Africa",
+    "subregion": "Middle Africa",
+    "languages": {
+        "fra": "French",
+        "sag": "Sango"
+    },
+    "translations": {
+        "ces": {
+            "official": "St\u0159edoafrick\u00e1 republika",
+            "common": "St\u0159edoafrick\u00e1 republika"
+        },
+        "cym": {
+            "official": "Gweriniaeth Canolbarth Affrica",
+            "common": "Gweriniaeth Canolbarth Affrica"
+        },
+        "deu": {
+            "official": "Zentralafrikanische Republik",
+            "common": "Zentralafrikanische Republik"
+        },
+        "est": {
+            "official": "Kesk-Aafrika Vabariik",
+            "common": "Kesk-Aafrika Vabariik"
+        },
+        "fin": {
+            "official": "Keski-Afrikan tasavalta",
+            "common": "Keski-Afrikan tasavalta"
+        },
+        "fra": {
+            "official": "R\u00e9publique centrafricaine",
+            "common": "R\u00e9publique centrafricaine"
+        },
+        "hrv": {
+            "official": "Centralna Afri\u010dka Republika",
+            "common": "Srednjoafri\u010dka Republika"
+        },
+        "hun": {
+            "official": "K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "K\u00f6z\u00e9p-afrikai K\u00f6zt\u00e1rsas\u00e1g"
+        },
+        "ita": {
+            "official": "Repubblica Centrafricana",
+            "common": "Repubblica Centrafricana"
+        },
+        "jpn": {
+            "official": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd",
+            "common": "\u4e2d\u592e\u30a2\u30d5\u30ea\u30ab\u5171\u548c\u56fd"
+        },
+        "kor": {
+            "official": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d",
+            "common": "\uc911\uc559\uc544\ud504\ub9ac\uce74 \uacf5\ud654\uad6d"
+        },
+        "nld": {
+            "official": "Centraal-Afrikaanse Republiek",
+            "common": "Centraal-Afrikaanse Republiek"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc",
+            "common": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0622\u0641\u0631\u06cc\u0642\u0627\u06cc \u0645\u0631\u06a9\u0632\u06cc"
+        },
+        "pol": {
+            "official": "Republika \u015arodkowoafryka\u0144ska",
+            "common": "Republika \u015arodkowoafryka\u0144ska"
+        },
+        "por": {
+            "official": "Rep\u00fablica Centro-Africano",
+            "common": "Rep\u00fablica Centro-Africana"
+        },
+        "rus": {
+            "official": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e-\u0410\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430",
+            "common": "\u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u043e\u0430\u0444\u0440\u0438\u043a\u0430\u043d\u0441\u043a\u0430\u044f \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430"
+        },
+        "slk": {
+            "official": "Stredoafrick\u00e1 republika",
+            "common": "Stredoafrick\u00e1 republika"
+        },
+        "spa": {
+            "official": "Rep\u00fablica Centroafricana",
+            "common": "Rep\u00fablica Centroafricana"
+        },
+        "swe": {
+            "official": "Centralafrikanska republiken",
+            "common": "Centralafrikanska republiken"
+        },
+        "urd": {
+            "official": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1",
+            "common": "\u0648\u0633\u0637\u06cc \u0627\u0641\u0631\u06cc\u0642\u06cc \u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1"
+        },
+        "zho": {
+            "official": "\u4e2d\u975e\u5171\u548c\u56fd",
+            "common": "\u4e2d\u975e\u5171\u548c\u56fd"
+        }
+    },
+    "latlng": [
+        7,
+        21
+    ],
+    "landlocked": true,
+    "borders": [
+        "CMR",
+        "TCD",
+        "COD",
+        "COG",
+        "SSD",
+        "SDN"
+    ],
+    "area": 622984,
+    "flag": "\ud83c\udde8\ud83c\uddeb",
+    "demonyms": {
+        "eng": {
+            "f": "Central African",
+            "m": "Central African"
+        },
+        "fra": {
+            "f": "Centrafricaine",
+            "m": "Centrafricain"
+        }
+    }
+}

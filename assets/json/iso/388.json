@@ -1,0 +1,150 @@
+{
+    "name": {
+        "common": "Jamaica",
+        "official": "Jamaica",
+        "native": {
+            "eng": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            },
+            "jam": {
+                "official": "Jamaica",
+                "common": "Jamaica"
+            }
+        }
+    },
+    "tld": [
+        ".jm"
+    ],
+    "cca2": "JM",
+    "ccn3": "388",
+    "cca3": "JAM",
+    "cioc": "JAM",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "JMD": {
+            "name": "Jamaican dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+1",
+        "suffixes": [
+            "876"
+        ]
+    },
+    "capital": [
+        "Kingston"
+    ],
+    "altSpellings": [
+        "JM"
+    ],
+    "region": "Americas",
+    "subregion": "Caribbean",
+    "languages": {
+        "eng": "English",
+        "jam": "Jamaican Patois"
+    },
+    "translations": {
+        "ces": {
+            "official": "Jamajka",
+            "common": "Jamajka"
+        },
+        "deu": {
+            "official": "Jamaika",
+            "common": "Jamaika"
+        },
+        "est": {
+            "official": "Jamaica",
+            "common": "Jamaica"
+        },
+        "fin": {
+            "official": "Jamaika",
+            "common": "Jamaika"
+        },
+        "fra": {
+            "official": "Jama\u00efque",
+            "common": "Jama\u00efque"
+        },
+        "hrv": {
+            "official": "Jamajka",
+            "common": "Jamajka"
+        },
+        "hun": {
+            "official": "Jamaica",
+            "common": "Jamaica"
+        },
+        "ita": {
+            "official": "Giamaica",
+            "common": "Giamaica"
+        },
+        "jpn": {
+            "official": "\u30b8\u30e3\u30de\u30a4\u30ab",
+            "common": "\u30b8\u30e3\u30de\u30a4\u30ab"
+        },
+        "kor": {
+            "official": "\uc790\uba54\uc774\uce74",
+            "common": "\uc790\uba54\uc774\uce74"
+        },
+        "nld": {
+            "official": "Jamaica",
+            "common": "Jamaica"
+        },
+        "per": {
+            "official": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627",
+            "common": "\u062c\u0627\u0645\u0627\u0626\u06cc\u06a9\u0627"
+        },
+        "pol": {
+            "official": "Jamajka",
+            "common": "Jamajka"
+        },
+        "por": {
+            "official": "Jamaica",
+            "common": "Jamaica"
+        },
+        "rus": {
+            "official": "\u042f\u043c\u0430\u0439\u043a\u0430",
+            "common": "\u042f\u043c\u0430\u0439\u043a\u0430"
+        },
+        "slk": {
+            "official": "Jamajka",
+            "common": "Jamajka"
+        },
+        "spa": {
+            "official": "Jamaica",
+            "common": "Jamaica"
+        },
+        "swe": {
+            "official": "Jamaica",
+            "common": "Jamaica"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06cc\u06a9\u0627",
+            "common": "\u062c\u0645\u06cc\u06a9\u0627"
+        },
+        "zho": {
+            "official": "\u7259\u4e70\u52a0",
+            "common": "\u7259\u4e70\u52a0"
+        }
+    },
+    "latlng": [
+        18.25,
+        -77.5
+    ],
+    "landlocked": false,
+    "borders": [],
+    "area": 10991,
+    "flag": "\ud83c\uddef\ud83c\uddf2",
+    "demonyms": {
+        "eng": {
+            "f": "Jamaican",
+            "m": "Jamaican"
+        },
+        "fra": {
+            "f": "Jama\u00efcaine",
+            "m": "Jama\u00efcain"
+        }
+    }
+}

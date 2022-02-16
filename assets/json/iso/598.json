@@ -1,0 +1,159 @@
+{
+    "name": {
+        "common": "Papua New Guinea",
+        "official": "Independent State of Papua New Guinea",
+        "native": {
+            "eng": {
+                "official": "Independent State of Papua New Guinea",
+                "common": "Papua New Guinea"
+            },
+            "hmo": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niu Gini"
+            },
+            "tpi": {
+                "official": "Independen Stet bilong Papua Niugini",
+                "common": "Papua Niugini"
+            }
+        }
+    },
+    "tld": [
+        ".pg"
+    ],
+    "cca2": "PG",
+    "ccn3": "598",
+    "cca3": "PNG",
+    "cioc": "PNG",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "PGK": {
+            "name": "Papua New Guinean kina",
+            "symbol": "K"
+        }
+    },
+    "idd": {
+        "root": "+6",
+        "suffixes": [
+            "75"
+        ]
+    },
+    "capital": [
+        "Port Moresby"
+    ],
+    "altSpellings": [
+        "PG",
+        "Independent State of Papua New Guinea",
+        "Independen Stet bilong Papua Niugini"
+    ],
+    "region": "Oceania",
+    "subregion": "Melanesia",
+    "languages": {
+        "eng": "English",
+        "hmo": "Hiri Motu",
+        "tpi": "Tok Pisin"
+    },
+    "translations": {
+        "ces": {
+            "official": "Nez\u00e1visl\u00fd st\u00e1t Papua Nov\u00e1 Guinea",
+            "common": "Papua-Nov\u00e1 Guinea"
+        },
+        "deu": {
+            "official": "Unabh\u00e4ngiger Staat Papua-Neuguinea",
+            "common": "Papua-Neuguinea"
+        },
+        "est": {
+            "official": "Paapua Uus-Guinea Iseseisvusriik",
+            "common": "Paapua Uus-Guinea"
+        },
+        "fin": {
+            "official": "Papua-Uuden-Guinean Itsen\u00e4inen valtio",
+            "common": "Papua-Uusi-Guinea"
+        },
+        "fra": {
+            "official": "\u00c9tat ind\u00e9pendant de Papouasie-Nouvelle-Guin\u00e9e",
+            "common": "Papouasie-Nouvelle-Guin\u00e9e"
+        },
+        "hrv": {
+            "official": "Nezavisna Dr\u017eava Papui Novoj Gvineji",
+            "common": "Papua Nova Gvineja"
+        },
+        "hun": {
+            "official": "P\u00e1pua \u00daj-Guinea F\u00fcggetlen \u00c1llam",
+            "common": "P\u00e1pua \u00daj-Guinea"
+        },
+        "ita": {
+            "official": "Stato indipendente di Papua Nuova Guinea",
+            "common": "Papua Nuova Guinea"
+        },
+        "jpn": {
+            "official": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2\u72ec\u7acb\u56fd",
+            "common": "\u30d1\u30d7\u30a2\u30cb\u30e5\u30fc\u30ae\u30cb\u30a2"
+        },
+        "kor": {
+            "official": "\ud30c\ud478\uc544\ub274\uae30\ub2c8 \ub3c5\ub9bd\uad6d",
+            "common": "\ud30c\ud478\uc544\ub274\uae30\ub2c8"
+        },
+        "nld": {
+            "official": "Onafhankelijke Staat Papoea -Nieuw-Guinea",
+            "common": "Papoea-Nieuw-Guinea"
+        },
+        "per": {
+            "official": "\u0645\u0645\u0644\u06a9\u062a \u0645\u0633\u062a\u0642\u0644 \u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647\u0654 \u0646\u0648",
+            "common": "\u067e\u0627\u067e\u0648\u0622 \u06af\u06cc\u0646\u0647 \u0646\u0648"
+        },
+        "pol": {
+            "official": "Niezale\u017cne Pa\u0144stwo Papui-Nowej Gwinei",
+            "common": "Papua-Nowa Gwinea"
+        },
+        "por": {
+            "official": "Estado Independente da Papua Nova Guin\u00e9",
+            "common": "Papua Nova Guin\u00e9"
+        },
+        "rus": {
+            "official": "\u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0435 \u0413\u043e\u0441\u0443\u0434\u0430\u0440\u0441\u0442\u0432\u043e \u041f\u0430\u043f\u0443\u0430-\u041d\u043e\u0432\u043e\u0439 \u0413\u0432\u0438\u043d\u0435\u0438",
+            "common": "\u041f\u0430\u043f\u0443\u0430 \u2014 \u041d\u043e\u0432\u0430\u044f \u0413\u0432\u0438\u043d\u0435\u044f"
+        },
+        "slk": {
+            "official": "Nez\u00e1visl\u00fd \u0161t\u00e1t Papua-Nov\u00e1 Guinea",
+            "common": "Papua-Nov\u00e1 Guinea"
+        },
+        "spa": {
+            "official": "Estado Independiente de Pap\u00faa Nueva Guinea",
+            "common": "Pap\u00faa Nueva Guinea"
+        },
+        "swe": {
+            "official": "Den oberoende staten Papua Nya Guinea",
+            "common": "Papua Nya Guinea"
+        },
+        "urd": {
+            "official": "\u0622\u0632\u0627\u062f \u0631\u06cc\u0627\u0633\u062a\u0650 \u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc",
+            "common": "\u067e\u0627\u067e\u0648\u0627 \u0646\u06cc\u0648 \u06af\u0646\u06cc"
+        },
+        "zho": {
+            "official": "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a",
+            "common": "\u5df4\u5e03\u4e9a\u65b0\u51e0\u5185\u4e9a"
+        }
+    },
+    "latlng": [
+        -6,
+        147
+    ],
+    "landlocked": false,
+    "borders": [
+        "IDN"
+    ],
+    "area": 462840,
+    "flag": "\ud83c\uddf5\ud83c\uddec",
+    "demonyms": {
+        "eng": {
+            "f": "Papua New Guinean",
+            "m": "Papua New Guinean"
+        },
+        "fra": {
+            "f": "Papouasienne",
+            "m": "Papouasien"
+        }
+    }
+}

@@ -1,0 +1,155 @@
+{
+    "name": {
+        "common": "Poland",
+        "official": "Republic of Poland",
+        "native": {
+            "pol": {
+                "official": "Rzeczpospolita Polska",
+                "common": "Polska"
+            }
+        }
+    },
+    "tld": [
+        ".pl"
+    ],
+    "cca2": "PL",
+    "ccn3": "616",
+    "cca3": "POL",
+    "cioc": "POL",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "PLN": {
+            "name": "Polish z\u0142oty",
+            "symbol": "z\u0142"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "8"
+        ]
+    },
+    "capital": [
+        "Warsaw"
+    ],
+    "altSpellings": [
+        "PL",
+        "Republic of Poland",
+        "Rzeczpospolita Polska"
+    ],
+    "region": "Europe",
+    "subregion": "Central Europe",
+    "languages": {
+        "pol": "Polish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Polsk\u00e1 republika",
+            "common": "Polsko"
+        },
+        "deu": {
+            "official": "Republik Polen",
+            "common": "Polen"
+        },
+        "est": {
+            "official": "Poola Vabariik",
+            "common": "Poola"
+        },
+        "fin": {
+            "official": "Puolan tasavalta",
+            "common": "Puola"
+        },
+        "fra": {
+            "official": "R\u00e9publique de Pologne",
+            "common": "Pologne"
+        },
+        "hrv": {
+            "official": "Republika Poljska",
+            "common": "Poljska"
+        },
+        "hun": {
+            "official": "Lengyel K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Lengyelorsz\u00e1g"
+        },
+        "ita": {
+            "official": "Repubblica di Polonia",
+            "common": "Polonia"
+        },
+        "jpn": {
+            "official": "\u30dd\u30fc\u30e9\u30f3\u30c9\u5171\u548c\u56fd",
+            "common": "\u30dd\u30fc\u30e9\u30f3\u30c9"
+        },
+        "kor": {
+            "official": "\ud3f4\ub780\ub4dc \uacf5\ud654\uad6d",
+            "common": "\ud3f4\ub780\ub4dc"
+        },
+        "nld": {
+            "official": "Republiek Polen",
+            "common": "Polen"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0644\u0647\u0633\u062a\u0627\u0646",
+            "common": "\u0644\u0647\u0633\u062a\u0627\u0646"
+        },
+        "pol": {
+            "official": "Rzeczpospolita Polska",
+            "common": "Polska"
+        },
+        "por": {
+            "official": "Rep\u00fablica da Pol\u00f3nia",
+            "common": "Pol\u00f3nia"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041f\u043e\u043b\u044c\u0448\u0430",
+            "common": "\u041f\u043e\u043b\u044c\u0448\u0430"
+        },
+        "slk": {
+            "official": "Po\u013esk\u00e1 republika",
+            "common": "Po\u013esko"
+        },
+        "spa": {
+            "official": "Rep\u00fablica de Polonia",
+            "common": "Polonia"
+        },
+        "swe": {
+            "official": "Republiken Polen",
+            "common": "Polen"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u067e\u0648\u0644\u06cc\u0646\u0688",
+            "common": "\u067e\u0648\u0644\u06cc\u0646\u0688"
+        },
+        "zho": {
+            "official": "\u6ce2\u5170\u5171\u548c\u56fd",
+            "common": "\u6ce2\u5170"
+        }
+    },
+    "latlng": [
+        52,
+        20
+    ],
+    "landlocked": false,
+    "borders": [
+        "BLR",
+        "CZE",
+        "DEU",
+        "LTU",
+        "RUS",
+        "SVK",
+        "UKR"
+    ],
+    "area": 312679,
+    "flag": "\ud83c\uddf5\ud83c\uddf1",
+    "demonyms": {
+        "eng": {
+            "f": "Polish",
+            "m": "Polish"
+        },
+        "fra": {
+            "f": "Polonaise",
+            "m": "Polonais"
+        }
+    }
+}

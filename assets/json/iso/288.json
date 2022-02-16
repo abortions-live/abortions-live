@@ -1,0 +1,149 @@
+{
+    "name": {
+        "common": "Ghana",
+        "official": "Republic of Ghana",
+        "native": {
+            "eng": {
+                "official": "Republic of Ghana",
+                "common": "Ghana"
+            }
+        }
+    },
+    "tld": [
+        ".gh"
+    ],
+    "cca2": "GH",
+    "ccn3": "288",
+    "cca3": "GHA",
+    "cioc": "GHA",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "GHS": {
+            "name": "Ghanaian cedi",
+            "symbol": "\u20b5"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "33"
+        ]
+    },
+    "capital": [
+        "Accra"
+    ],
+    "altSpellings": [
+        "GH"
+    ],
+    "region": "Africa",
+    "subregion": "Western Africa",
+    "languages": {
+        "eng": "English"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ghansk\u00e1 republika",
+            "common": "Ghana"
+        },
+        "deu": {
+            "official": "Republik Ghana",
+            "common": "Ghana"
+        },
+        "est": {
+            "official": "Ghana Vabariik",
+            "common": "Ghana"
+        },
+        "fin": {
+            "official": "Ghanan tasavalta",
+            "common": "Ghana"
+        },
+        "fra": {
+            "official": "R\u00e9publique du Ghana",
+            "common": "Ghana"
+        },
+        "hrv": {
+            "official": "Republika Gana",
+            "common": "Gana"
+        },
+        "hun": {
+            "official": "Gh\u00e1nai K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Gh\u00e1na"
+        },
+        "ita": {
+            "official": "Repubblica del Ghana",
+            "common": "Ghana"
+        },
+        "jpn": {
+            "official": "\u30ac\u30fc\u30ca\u5171\u548c\u56fd",
+            "common": "\u30ac\u30fc\u30ca"
+        },
+        "kor": {
+            "official": "\uac00\ub098 \uacf5\ud654\uad6d",
+            "common": "\uac00\ub098"
+        },
+        "nld": {
+            "official": "Republiek Ghana",
+            "common": "Ghana"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u063a\u0646\u0627",
+            "common": "\u063a\u0646\u0627"
+        },
+        "pol": {
+            "official": "Republika Ghany",
+            "common": "Ghana"
+        },
+        "por": {
+            "official": "Rep\u00fablica do Gana",
+            "common": "Gana"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0413\u0430\u043d\u0430",
+            "common": "\u0413\u0430\u043d\u0430"
+        },
+        "slk": {
+            "official": "Ghansk\u00e1 republika",
+            "common": "Ghana"
+        },
+        "spa": {
+            "official": "Rep\u00fablica de Ghana",
+            "common": "Ghana"
+        },
+        "swe": {
+            "official": "Republiken Ghana",
+            "common": "Ghana"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u06af\u06be\u0627\u0646\u0627",
+            "common": "\u06af\u06be\u0627\u0646\u0627"
+        },
+        "zho": {
+            "official": "\u52a0\u7eb3\u5171\u548c\u56fd",
+            "common": "\u52a0\u7eb3"
+        }
+    },
+    "latlng": [
+        8,
+        -2
+    ],
+    "landlocked": false,
+    "borders": [
+        "BFA",
+        "CIV",
+        "TGO"
+    ],
+    "area": 238533,
+    "flag": "\ud83c\uddec\ud83c\udded",
+    "demonyms": {
+        "eng": {
+            "f": "Ghanaian",
+            "m": "Ghanaian"
+        },
+        "fra": {
+            "f": "Ghan\u00e9enne",
+            "m": "Ghan\u00e9en"
+        }
+    }
+}

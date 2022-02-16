@@ -1,0 +1,154 @@
+{
+    "name": {
+        "common": "Ecuador",
+        "official": "Republic of Ecuador",
+        "native": {
+            "spa": {
+                "official": "Rep\u00fablica del Ecuador",
+                "common": "Ecuador"
+            }
+        }
+    },
+    "tld": [
+        ".ec"
+    ],
+    "cca2": "EC",
+    "ccn3": "218",
+    "cca3": "ECU",
+    "cioc": "ECU",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "USD": {
+            "name": "United States dollar",
+            "symbol": "$"
+        }
+    },
+    "idd": {
+        "root": "+5",
+        "suffixes": [
+            "93"
+        ]
+    },
+    "capital": [
+        "Quito"
+    ],
+    "altSpellings": [
+        "EC",
+        "Republic of Ecuador",
+        "Rep\u00fablica del Ecuador"
+    ],
+    "region": "Americas",
+    "subregion": "South America",
+    "languages": {
+        "spa": "Spanish"
+    },
+    "translations": {
+        "ces": {
+            "official": "Ekv\u00e1dorsk\u00e1 republika",
+            "common": "Ekv\u00e1dor"
+        },
+        "cym": {
+            "official": "Gweriniaeth Ecwador",
+            "common": "Ecwador"
+        },
+        "deu": {
+            "official": "Republik Ecuador",
+            "common": "Ecuador"
+        },
+        "est": {
+            "official": "Ecuadori Vabariik",
+            "common": "Ecuador"
+        },
+        "fin": {
+            "official": "Ecuadorin tasavalta",
+            "common": "Ecuador"
+        },
+        "fra": {
+            "official": "R\u00e9publique de l'\u00c9quateur",
+            "common": "\u00c9quateur"
+        },
+        "hrv": {
+            "official": "Republika Ekvador",
+            "common": "Ekvador"
+        },
+        "hun": {
+            "official": "Ecuadori K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Ecuador"
+        },
+        "ita": {
+            "official": "Repubblica dell'Ecuador",
+            "common": "Ecuador"
+        },
+        "jpn": {
+            "official": "\u30a8\u30af\u30a2\u30c9\u30eb\u5171\u548c\u56fd",
+            "common": "\u30a8\u30af\u30a2\u30c9\u30eb"
+        },
+        "kor": {
+            "official": "\uc5d0\ucf70\ub3c4\ub974 \uacf5\ud654\uad6d",
+            "common": "\uc5d0\ucf70\ub3c4\ub974"
+        },
+        "nld": {
+            "official": "Republiek Ecuador",
+            "common": "Ecuador"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0627\u06a9\u0648\u0627\u062f\u0648\u0631",
+            "common": "\u0627\u06a9\u0648\u0627\u062f\u0648\u0631"
+        },
+        "pol": {
+            "official": "Ekwador",
+            "common": "Ekwador"
+        },
+        "por": {
+            "official": "Rep\u00fablica do Equador",
+            "common": "Equador"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u042d\u043a\u0432\u0430\u0434\u043e\u0440",
+            "common": "\u042d\u043a\u0432\u0430\u0434\u043e\u0440"
+        },
+        "slk": {
+            "official": "Ekv\u00e1dorsk\u00e1 republika",
+            "common": "Ekv\u00e1dor"
+        },
+        "spa": {
+            "official": "Rep\u00fablica del Ecuador",
+            "common": "Ecuador"
+        },
+        "swe": {
+            "official": "Republiken Ecuador",
+            "common": "Ecuador"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0627\u06cc\u06a9\u0648\u0688\u0648\u0631",
+            "common": "\u0627\u06cc\u06a9\u0648\u0627\u0688\u0648\u0631"
+        },
+        "zho": {
+            "official": "\u5384\u74dc\u591a\u5c14\u5171\u548c\u56fd",
+            "common": "\u5384\u74dc\u591a\u5c14"
+        }
+    },
+    "latlng": [
+        -2,
+        -77.5
+    ],
+    "landlocked": false,
+    "borders": [
+        "COL",
+        "PER"
+    ],
+    "area": 276841,
+    "flag": "\ud83c\uddea\ud83c\udde8",
+    "demonyms": {
+        "eng": {
+            "f": "Ecuadorean",
+            "m": "Ecuadorean"
+        },
+        "fra": {
+            "f": "\u00c9quatorienne",
+            "m": "\u00c9quatorien"
+        }
+    }
+}

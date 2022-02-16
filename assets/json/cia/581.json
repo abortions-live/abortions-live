@@ -1,0 +1,355 @@
+{
+    "data": {
+        "name": "United States Minor Outlying Islands",
+        "introduction": {
+            "background": "Not recognized as seperate units by the U.S. Government. See includes section for Navassa and Wake Islands"
+        },
+        "includes": {
+            "navassa_island": {
+                "data": {
+                    "name": "Navassa Island",
+                    "introduction": {
+                        "background": "This uninhabited island was claimed by the US in 1857 for its guano. Mining took place between 1865 and 1898. The lighthouse, built in 1917, was shut down in 1996 and administration of Navassa Island transferred from the US Coast Guard to the Department of the Interior, Office of Insular Affairs. A 1998 scientific expedition to the island described it as a \"unique preserve of Caribbean biodiversity.\" The following year it became a National Wildlife Refuge and annual scientific expeditions have continued."
+                    },
+                    "geography": {
+                        "location": "Caribbean, island in the Caribbean Sea, 30 nm west of Tiburon Peninsula of Haiti",
+                        "geographic_coordinates": {
+                            "latitude": {
+                                "degrees": 18,
+                                "minutes": 25,
+                                "hemisphere": "N"
+                            },
+                            "longitude": {
+                                "degrees": 75,
+                                "minutes": 2,
+                                "hemisphere": "W"
+                            }
+                        },
+                        "map_references": "Central America and the Caribbean",
+                        "area": {
+                            "total": {
+                                "value": 5,
+                                "units": "sq km"
+                            },
+                            "land": {
+                                "value": 5.4,
+                                "units": "sq km"
+                            },
+                            "water": {
+                                "value": 0,
+                                "units": "sq km"
+                            },
+                            "global_rank": 249,
+                            "comparative": "about nine times the size of the National Mall in Washington, DC"
+                        },
+                        "land_boundaries": {
+                            "total": {
+                                "value": 0,
+                                "units": "km"
+                            }
+                        },
+                        "coastline": {
+                            "value": 8,
+                            "units": "km"
+                        },
+                        "maritime_claims": {
+                            "territorial_sea": {
+                                "value": 12,
+                                "units": "nm"
+                            },
+                            "exclusive_economic_zone": {
+                                "value": 200,
+                                "units": "nm"
+                            }
+                        },
+                        "climate": "marine, tropical",
+                        "terrain": "raised flat to undulating coral and limestone plateau; ringed by vertical white cliffs (9 to 15 m high)",
+                        "elevation": {
+                            "lowest_point": {
+                                "name": "Caribbean Sea",
+                                "elevation": {
+                                    "value": 0,
+                                    "units": "m"
+                                }
+                            },
+                            "highest_point": {
+                                "name": "",
+                                "elevation": {
+                                    "value": 200,
+                                    "units": "m"
+                                },
+                                "note": "NNW of lighthouse 85 m"
+                            }
+                        },
+                        "natural_resources": {
+                            "resources": [
+                                "guano",
+                                "mining discontinued in 1898"
+                            ]
+                        },
+                        "land_use": {
+                            "by_sector": {
+                                "agricultural_land_total": {
+                                    "value": 0,
+                                    "units": "%"
+                                },
+                                "arable_land": {
+                                    "value": 0,
+                                    "units": "%",
+                                    "note": "/"
+                                },
+                                "permanent_crops": {
+                                    "value": 0,
+                                    "units": "%",
+                                    "note": "/"
+                                },
+                                "permanent_pasture": {
+                                    "value": 0,
+                                    "units": "%"
+                                },
+                                "forest": {
+                                    "value": 0,
+                                    "units": "%"
+                                },
+                                "other": {
+                                    "value": 100,
+                                    "units": "%"
+                                }
+                            },
+                            "date": "2011"
+                        },
+                        "natural_hazards": [
+                            {
+                                "description": "hurricanes",
+                                "type": "hazard"
+                            }
+                        ],
+                        "environment": {
+                            "current_issues": [
+                                "some coral bleaching"
+                            ]
+                        }
+                    },
+                    "government": {
+                        "country_name": {
+                            "conventional_long_form": "none",
+                            "conventional_short_form": "Navassa Island",
+                            "etymology": "the flat island was named \"Navaza\" by some of Christopher COLUMBUS' sailors in 1504; the name derives from the Spanish term \"nava\" meaning \"flat land, plain, or field\""
+                        },
+                        "legal_system": "the laws of the US apply where applicable",
+                        "flag_description": {
+                            "description": "the flag of the US is used"
+                        }
+                    },
+                    "economy": {
+                        "overview": "Subsistence fishing and commercial trawling occur within refuge waters."
+                    },
+                    "military_and_security": {
+                        "note": "defense is the responsibility of the US"
+                    },
+                    "transnational_issues": {
+                        "disputes": [
+                            "claimed by Haiti, source of subsistence fishing"
+                        ]
+                    }
+                },
+                "metadata": {
+                    "date": "2020-11-06",
+                    "source": "https://web.archive.org/web/20201106232740/https://www.cia.gov/library/publications/the-world-factbook/geos/bq.html",
+                    "nearby_dates": "https://web.archive.org/web/20201106000000*/https://www.cia.gov/library/publications/the-world-factbook/geos/bq.html"
+                }
+            },
+            "wake_sland": {
+                "data": {
+                    "name": "Wake Island",
+                    "introduction": {
+                        "background": "The US annexed Wake Island in 1899 for a cable station. An important air and naval base was constructed in 1940-41. In December 1941, the island was captured by the Japanese and held until the end of World War II. In subsequent years, Wake became a stopover and refueling site for military and commercial aircraft transiting the Pacific. Since 1974, the island's airstrip has been used by the US military, as well as for emergency landings. Operations on the island were temporarily suspended and all personnel evacuated in 2006 with the approach of super typhoon IOKE (category 5), but resultant damage was comparatively minor. A US Air Force repair team restored full capability to the airfield and facilities, and the island remains a vital strategic link in the Pacific region."
+                    },
+                    "geography": {
+                        "location": "Oceania, atoll in the North Pacific Ocean, about two-thirds of the way from Hawaii to the Northern Mariana Islands",
+                        "geographic_coordinates": {
+                            "latitude": {
+                                "degrees": 19,
+                                "minutes": 17,
+                                "hemisphere": "N"
+                            },
+                            "longitude": {
+                                "degrees": 166,
+                                "minutes": 39,
+                                "hemisphere": "E"
+                            }
+                        },
+                        "map_references": "Oceania",
+                        "area": {
+                            "total": {
+                                "value": 7,
+                                "units": "sq km"
+                            },
+                            "land": {
+                                "value": 6.5,
+                                "units": "sq km"
+                            },
+                            "water": {
+                                "value": 0,
+                                "units": "sq km"
+                            },
+                            "global_rank": 246,
+                            "comparative": "about 11 times the size of the National Mall in Washington, DC"
+                        },
+                        "land_boundaries": {
+                            "total": {
+                                "value": 0,
+                                "units": "km"
+                            }
+                        },
+                        "coastline": {
+                            "value": 19.3,
+                            "units": "km"
+                        },
+                        "maritime_claims": {
+                            "territorial_sea": {
+                                "value": 12,
+                                "units": "nm"
+                            },
+                            "exclusive_economic_zone": {
+                                "value": 200,
+                                "units": "nm"
+                            }
+                        },
+                        "climate": "tropical",
+                        "terrain": "atoll of three low coral islands, Peale, Wake, and Wilkes, built up on an underwater volcano; central lagoon is former crater, islands are part of the rim",
+                        "elevation": {
+                            "lowest_point": {
+                                "name": "Pacific Ocean",
+                                "elevation": {
+                                    "value": 0,
+                                    "units": "m"
+                                }
+                            },
+                            "highest_point": {
+                                "name": "unnamed location",
+                                "elevation": {
+                                    "value": 8,
+                                    "units": "m"
+                                }
+                            }
+                        },
+                        "land_use": {
+                            "by_sector": {
+                                "agricultural_land_total": {
+                                    "value": 0,
+                                    "units": "%"
+                                },
+                                "arable_land": {
+                                    "value": 0,
+                                    "units": "%",
+                                    "note": "/"
+                                },
+                                "permanent_crops": {
+                                    "value": 0,
+                                    "units": "%",
+                                    "note": "/"
+                                },
+                                "permanent_pasture": {
+                                    "value": 0,
+                                    "units": "%"
+                                },
+                                "forest": {
+                                    "value": 0,
+                                    "units": "%"
+                                },
+                                "other": {
+                                    "value": 100,
+                                    "units": "%"
+                                }
+                            },
+                            "date": "2011"
+                        },
+                        "irrigated_land": {
+                            "value": 0,
+                            "units": "sq km",
+                            "date": "2012"
+                        },
+                        "natural_hazards": [
+                            {
+                                "description": "subject to occasional typhoons",
+                                "type": "hazard"
+                            }
+                        ],
+                        "environment": {
+                            "current_issues": [
+                                "potable water obtained through a catchment rainwater system and a desalinization plant for brackish ground water",
+                                "hazardous wastes moved to an accumulation site for storage and eventual transport off site via barge"
+                            ]
+                        }
+                    },
+                    "government": {
+                        "country_name": {
+                            "conventional_long_form": "none",
+                            "conventional_short_form": "Wake Island",
+                            "etymology": "although first discovered by British Captain William WAKE in 1792, the island is named after British Captain Samuel WAKE, who rediscovered the island in 1796"
+                        },
+                        "independence": {
+                            "note": "territory of the US"
+                        },
+                        "legal_system": "US common law",
+                        "flag_description": {
+                            "description": "the flag of the US is used"
+                        }
+                    },
+                    "economy": {
+                        "overview": "Economic activity is limited to providing services to military personnel and contractors located on the island. All food and manufactured goods must be imported."
+                    },
+                    "energy": {
+                        "crude_oil": {
+                            "production": {
+                                "bbl_per_day": 0,
+                                "global_rank": 216,
+                                "date": "2018"
+                            }
+                        }
+                    },
+                    "communications": {
+                        "broadcast_media": "American Armed Forces Radio and Television Service (AFRTS) provides satellite radio/TV broadcasts (2018)"
+                    },
+                    "transportation": {
+                        "air_transport": {
+                            "airports": {
+                                "total": {
+                                    "airports": 1,
+                                    "global_rank": 238,
+                                    "date": "2018"
+                                },
+                                "paved": {
+                                    "total": 1,
+                                    "2438_to_3047_metres": 1,
+                                    "date": "2019"
+                                }
+                            }
+                        },
+                        "note": "there are no commercial or civilian flights to and from Wake Island, except in direct support of island missions; emergency landing is available"
+                    },
+                    "military_and_security": {
+                        "note": "defense is the responsibility of the US; the US Air Force is responsible for overall administration and operation of the island facilities; the launch support facility is administered by the US Missile Defense Agency (MDA)"
+                    },
+                    "transnational_issues": {
+                        "disputes": [
+                            "claimed by Marshall Islands"
+                        ]
+                    }
+                },
+                "metadata": {
+                    "date": "2020-11-15",
+                    "source": "https://web.archive.org/web/20201115064822/https://www.cia.gov/library/publications/the-world-factbook/geos/wq.html",
+                    "nearby_dates": "https://web.archive.org/web/20201115000000*/https://www.cia.gov/library/publications/the-world-factbook/geos/wq.html"
+                }
+            }
+        }
+    },
+    "metadata": {
+        "date": "2022-02-05"
+    },
+    "gecCode": "",
+    "natoCode": "",
+    "ccn3": "581"
+}

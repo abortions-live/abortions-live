@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "img-comparison-slider@7.4.3",
+      "/Users/home/@DEV/a"
+    ]
+  ],
+  "_from": "img-comparison-slider@7.4.3",
+  "_id": "img-comparison-slider@7.4.3",
+  "_inBundle": false,
+  "_integrity": "sha512-hFwZ+644VbpPraAbJk9upCN8luI/ejd0YLOxI+8WP43A+zPj6nma3H411qAEBwhD8XBpFobJdkOq/r/TGU5udg==",
+  "_location": "/img-comparison-slider",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "img-comparison-slider@7.4.3",
+    "name": "img-comparison-slider",
+    "escapedName": "img-comparison-slider",
+    "rawSpec": "7.4.3",
+    "saveSpec": null,
+    "fetchSpec": "7.4.3"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/img-comparison-slider/-/img-comparison-slider-7.4.3.tgz",
+  "_spec": "7.4.3",
+  "_where": "/Users/home/@DEV/a",
+  "bugs": {
+    "url": "https://github.com/sneas/img-comparison-slider/issues"
+  },
+  "description": "Slider component to compare images before and after",
+  "devDependencies": {
+    "@semantic-release/exec": "^5.0.0",
+    "@semantic-release/git": "^9.0.0",
+    "copy-webpack-plugin": "^9.0.0",
+    "css-loader": "^5.2.6",
+    "file-loader": "^6.2.0",
+    "gh-pages": "^3.2.0",
+    "handlebars-loader": "^1.7.1",
+    "html-loader": "^2.1.2",
+    "html-webpack-plugin": "^5.3.1",
+    "husky": "^6.0.0",
+    "lint-staged": "^11.0.0",
+    "prettier": "^2.3.0",
+    "rimraf": "^3.0.2",
+    "sass": "^1.34.0",
+    "sass-loader": "^11.1.1",
+    "semantic-release": "^17.4.3",
+    "ts-loader": "^9.2.2",
+    "typescript": "^4.3.2",
+    "webpack": "^5.38.1",
+    "webpack-cli": "^4.7.0",
+    "webpack-dev-server": "^3.11.2",
+    "webpack-merge": "^5.7.3"
+  },
+  "homepage": "https://img-comparison-slider.sneas.io",
+  "keywords": [
+    "image",
+    "img",
+    "slider",
+    "compare",
+    "comparison",
+    "web-component"
+  ],
+  "license": "MIT",
+  "main": "dist/index.js",
+  "name": "img-comparison-slider",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sneas/img-comparison-slider.git"
+  },
+  "scripts": {
+    "build": "webpack --env production",
+    "demo": "webpack --env demo",
+    "gh": "gh-pages -d demo",
+    "prebuild": "rimraf ./dist",
+    "predemo": "rimraf ./demo",
+    "release-bindings": "./scripts/release-bindings.sh",
+    "start": "webpack serve --env development --open",
+    "watch": "webpack --watch --env production"
+  },
+  "types": "dist/index.d.ts",
+  "version": "7.4.3"
+}

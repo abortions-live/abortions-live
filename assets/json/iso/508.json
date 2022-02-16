@@ -1,0 +1,154 @@
+{
+    "name": {
+        "common": "Mozambique",
+        "official": "Republic of Mozambique",
+        "native": {
+            "por": {
+                "official": "Rep\u00fablica de Mo\u00e7ambique",
+                "common": "Mo\u00e7ambique"
+            }
+        }
+    },
+    "tld": [
+        ".mz"
+    ],
+    "cca2": "MZ",
+    "ccn3": "508",
+    "cca3": "MOZ",
+    "cioc": "MOZ",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "MZN": {
+            "name": "Mozambican metical",
+            "symbol": "MT"
+        }
+    },
+    "idd": {
+        "root": "+2",
+        "suffixes": [
+            "58"
+        ]
+    },
+    "capital": [
+        "Maputo"
+    ],
+    "altSpellings": [
+        "MZ",
+        "Republic of Mozambique",
+        "Rep\u00fablica de Mo\u00e7ambique"
+    ],
+    "region": "Africa",
+    "subregion": "Eastern Africa",
+    "languages": {
+        "por": "Portuguese"
+    },
+    "translations": {
+        "ces": {
+            "official": "Mosambick\u00e1 republika",
+            "common": "Mosambik"
+        },
+        "deu": {
+            "official": "Republik Mosambik",
+            "common": "Mosambik"
+        },
+        "est": {
+            "official": "Mosambiigi Vabariik",
+            "common": "Mosambiik"
+        },
+        "fin": {
+            "official": "Mosambikin tasavalta",
+            "common": "Mosambik"
+        },
+        "fra": {
+            "official": "R\u00e9publique du Mozambique",
+            "common": "Mozambique"
+        },
+        "hrv": {
+            "official": "Republika Mozambiku",
+            "common": "Mozambik"
+        },
+        "hun": {
+            "official": "Mozambiki K\u00f6zt\u00e1rsas\u00e1g",
+            "common": "Mozambik"
+        },
+        "ita": {
+            "official": "Repubblica del Mozambico",
+            "common": "Mozambico"
+        },
+        "jpn": {
+            "official": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af\u5171\u548c\u56fd",
+            "common": "\u30e2\u30b6\u30f3\u30d3\u30fc\u30af"
+        },
+        "kor": {
+            "official": "\ubaa8\uc7a0\ube44\ud06c \uacf5\ud654\uad6d",
+            "common": "\ubaa8\uc7a0\ube44\ud06c"
+        },
+        "nld": {
+            "official": "Republiek Mozambique",
+            "common": "Mozambique"
+        },
+        "per": {
+            "official": "\u062c\u0645\u0647\u0648\u0631\u06cc \u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9",
+            "common": "\u0645\u0648\u0632\u0627\u0645\u0628\u06cc\u06a9"
+        },
+        "pol": {
+            "official": "Republika Mozambiku",
+            "common": "Mozambik"
+        },
+        "por": {
+            "official": "Rep\u00fablica de Mo\u00e7ambique",
+            "common": "Mo\u00e7ambique"
+        },
+        "rus": {
+            "official": "\u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a",
+            "common": "\u041c\u043e\u0437\u0430\u043c\u0431\u0438\u043a"
+        },
+        "slk": {
+            "official": "Mozambick\u00e1 republika",
+            "common": "Mozambik"
+        },
+        "spa": {
+            "official": "Rep\u00fablica de Mozambique",
+            "common": "Mozambique"
+        },
+        "swe": {
+            "official": "Republiken Mo\u00e7ambique",
+            "common": "Mo\u00e7ambique"
+        },
+        "urd": {
+            "official": "\u062c\u0645\u06c1\u0648\u0631\u06cc\u06c1 \u0645\u0648\u0632\u0645\u0628\u06cc\u0642",
+            "common": "\u0645\u0648\u0632\u0645\u0628\u06cc\u0642"
+        },
+        "zho": {
+            "official": "\u83ab\u6851\u6bd4\u514b\u5171\u548c\u56fd",
+            "common": "\u83ab\u6851\u6bd4\u514b"
+        }
+    },
+    "latlng": [
+        -18.25,
+        35
+    ],
+    "landlocked": false,
+    "borders": [
+        "MWI",
+        "ZAF",
+        "SWZ",
+        "TZA",
+        "ZMB",
+        "ZWE"
+    ],
+    "area": 801590,
+    "flag": "\ud83c\uddf2\ud83c\uddff",
+    "demonyms": {
+        "eng": {
+            "f": "Mozambican",
+            "m": "Mozambican"
+        },
+        "fra": {
+            "f": "Mozambicaine",
+            "m": "Mozambicain"
+        }
+    }
+}

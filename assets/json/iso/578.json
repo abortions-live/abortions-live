@@ -1,0 +1,164 @@
+{
+    "name": {
+        "common": "Norway",
+        "official": "Kingdom of Norway",
+        "native": {
+            "nno": {
+                "official": "Kongeriket Noreg",
+                "common": "Noreg"
+            },
+            "nob": {
+                "official": "Kongeriket Norge",
+                "common": "Norge"
+            },
+            "smi": {
+                "official": "Norgga gonagasriika",
+                "common": "Norgga"
+            }
+        }
+    },
+    "tld": [
+        ".no"
+    ],
+    "cca2": "NO",
+    "ccn3": "578",
+    "cca3": "NOR",
+    "cioc": "NOR",
+    "independent": true,
+    "status": "officially-assigned",
+    "unMember": true,
+    "currencies": {
+        "NOK": {
+            "name": "Norwegian krone",
+            "symbol": "kr"
+        }
+    },
+    "idd": {
+        "root": "+4",
+        "suffixes": [
+            "7"
+        ]
+    },
+    "capital": [
+        "Oslo"
+    ],
+    "altSpellings": [
+        "NO",
+        "Norge",
+        "Noreg",
+        "Kingdom of Norway",
+        "Kongeriket Norge",
+        "Kongeriket Noreg"
+    ],
+    "region": "Europe",
+    "subregion": "Northern Europe",
+    "languages": {
+        "nno": "Norwegian Nynorsk",
+        "nob": "Norwegian Bokm\u00e5l",
+        "smi": "Sami"
+    },
+    "translations": {
+        "ces": {
+            "official": "Norsk\u00e9 kr\u00e1lovstv\u00ed",
+            "common": "Norsko"
+        },
+        "deu": {
+            "official": "K\u00f6nigreich Norwegen",
+            "common": "Norwegen"
+        },
+        "est": {
+            "official": "Norra Kuningriik",
+            "common": "Norra"
+        },
+        "fin": {
+            "official": "Norjan kuningaskunta",
+            "common": "Norja"
+        },
+        "fra": {
+            "official": "Royaume de Norv\u00e8ge",
+            "common": "Norv\u00e8ge"
+        },
+        "hrv": {
+            "official": "Kraljevina Norve\u0161ka",
+            "common": "Norve\u0161ka"
+        },
+        "hun": {
+            "official": "Norv\u00e9g Kir\u00e1lys\u00e1g",
+            "common": "Norv\u00e9gia"
+        },
+        "ita": {
+            "official": "Regno di Norvegia",
+            "common": "Norvegia"
+        },
+        "jpn": {
+            "official": "\u30ce\u30eb\u30a6\u30a7\u30fc\u738b\u56fd",
+            "common": "\u30ce\u30eb\u30a6\u30a7\u30fc"
+        },
+        "kor": {
+            "official": "\ub178\ub974\uc6e8\uc774 \uc655\uad6d",
+            "common": "\ub178\ub974\uc6e8\uc774"
+        },
+        "nld": {
+            "official": "Koninkrijk Noorwegen",
+            "common": "Noorwegen"
+        },
+        "per": {
+            "official": "\u067e\u0627\u062f\u0634\u0627\u0647\u06cc \u0646\u0631\u0648\u0698",
+            "common": "\u0646\u0631\u0648\u0698"
+        },
+        "pol": {
+            "official": "Kr\u00f3lestwo Norwegii",
+            "common": "Norwegia"
+        },
+        "por": {
+            "official": "Reino da Noruega",
+            "common": "Noruega"
+        },
+        "rus": {
+            "official": "\u041a\u043e\u0440\u043e\u043b\u0435\u0432\u0441\u0442\u0432\u043e \u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f",
+            "common": "\u041d\u043e\u0440\u0432\u0435\u0433\u0438\u044f"
+        },
+        "slk": {
+            "official": "N\u00f3rske kr\u00e1\u013eovstvo",
+            "common": "N\u00f3rsko"
+        },
+        "spa": {
+            "official": "Reino de Noruega",
+            "common": "Noruega"
+        },
+        "swe": {
+            "official": "Konungariket Norge",
+            "common": "Norge"
+        },
+        "urd": {
+            "official": "\u0645\u0645\u0644\u06a9\u062a\u0650 \u0646\u0627\u0631\u0648\u06d2",
+            "common": "\u0646\u0627\u0631\u0648\u06d2"
+        },
+        "zho": {
+            "official": "\u632a\u5a01\u738b\u56fd",
+            "common": "\u632a\u5a01"
+        }
+    },
+    "latlng": [
+        62,
+        10
+    ],
+    "landlocked": false,
+    "borders": [
+        "FIN",
+        "SWE",
+        "RUS"
+    ],
+    "area": 323802,
+    "flag": "\ud83c\uddf3\ud83c\uddf4",
+    "demonyms": {
+        "eng": {
+            "f": "Norwegian",
+            "m": "Norwegian"
+        },
+        "fra": {
+            "f": "Norv\u00e9gienne",
+            "m": "Norv\u00e9gien"
+        }
+    }
+}
