@@ -9,5 +9,14 @@ async function start() {
     // 777.947581228551 × 7 = 5,445.6330686
 }
 
-// window.onload=start();
-start()
+
+(function () {
+    window.onload = function () {
+        start();
+        const preloader = document.querySelector('.page-loading');
+        preloader.classList.remove('active');
+        setTimeout(function () {
+            preloader.remove();
+        }, 1000);
+    };
+})();

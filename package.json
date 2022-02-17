@@ -1,9 +1,9 @@
 {
   "name": "abortions_live",
-  "version": "1.0.0",
+  "version": "2022.02.16",
   "description": "Live abortion statisitcs, graphics, and facts.",
-  "main": "dist/app.js",
-  "author": "Anonymous",
+  "main": "server.js",
+  "author": "abortions.live",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },

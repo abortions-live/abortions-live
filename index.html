@@ -2,12 +2,7 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>Abortions Live</title>
-
-    <!-- SEO Meta Tags -->
-    <meta name="description" content="Abortions Live - Live abortion graphics and statistics">
-    <meta name="keywords" content="">
-    <meta name="author" content="Anonymous">
+    <title>abortions.live</title>
 
     <!-- Viewport -->
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -20,6 +15,36 @@
     <link rel="shortcut icon" href="assets/favicon/favicon.ico">
     <meta name="msapplication-TileColor" content="#080032">
     <meta name="theme-color" content="#ffffff">
+
+    <!-- SEO Meta Tags -->
+    <link rel="canonical" href="https://abortions.live/"/>
+    <meta name="description" content="abortions.live - Live abortion graphics and statistics">
+    <meta name="keywords" content="abortions.live, live, abortion, graphics, statistics, prolife, pro, life, pro-life">
+    <meta name="author" content="abortions.live">
+
+    <!-- Schema.org markup for Google+ -->
+    <meta itemprop="name" content="abortions.live">
+    <meta itemprop="description" content="abortions.live - Live abortion graphics and statistics">
+    <meta itemprop="image" content="assets/img/babies/2t-white-womb.png">
+
+    <!-- Twitter Card data -->
+    <meta name="twitter:card" content="portfolio">
+    <meta name="twitter:site" content="@abortions.live">
+    <meta name="twitter:title" content="abortions.live">
+    <meta name="twitter:description" content="abortions.live - Live abortion graphics and statistics">
+    <meta name="twitter:creator" content="@abortions.live">
+    <meta name="twitter:image" content="assets/img/babies/2t-white-womb.png">
+    <meta name="twitter:image:alt" content="a baby in the second trimester">
+    <meta name="twitter:data1" content="abortions.live">
+    <meta name="twitter:label1" content="abortions.live">
+
+    <!-- Open Graph data -->
+    <meta property="og:title" content="abortions.live" />
+    <meta property="og:type" content="abortions.live" />
+    <meta property="og:url" content="https://abortions.live/" />
+    <meta property="og:image" content="assets/img/babies/2t-white-womb.png"/>
+    <meta property="og:description" content="abortions.live - Live abortion graphics and statistics" />
+    <meta property="og:site_name" content="abortions.live" />
 
     <!-- Vendor Styles -->
     <link rel="stylesheet" media="screen" href="assets/vendor/boxicons/css/boxicons.min.css"/>
@@ -135,18 +160,6 @@
       }
     </script>
 
-    <!-- Page loading scripts -->
-    <script>
-      (function () {
-        window.onload = function () {
-          const preloader = document.querySelector('.page-loading');
-          preloader.classList.remove('active');
-          setTimeout(function () {
-            preloader.remove();
-          }, 1000);
-        };
-      })();
-    </script>
   </head>
 
 
@@ -214,9 +227,11 @@
                         ]}'></span>
                       </p>
                     </div>
+                    <!--
                     <h2 class="display-6 text-light pb-3 mb-3">
                       Learn how you can help
                     </h2>
+                    -->
                     <p class="fs-lg text-light opacity-90 mb-5">
                         Around the world, an estimated 
                         <strong>
@@ -225,24 +240,37 @@
                         babies are aborted every 
                         <strong>
                           minute
-                        </strong>
-                        .
+                        </strong>.
                         Thus, since your arrival to this page, approximately
-
                         <strong>
                           <span id="infoCountUp" class="badge bg-primary shadow-primary"></span>
                         </strong>
                         little ones have left this world
                         <strong>far too early</strong>. 
-
+                        It is worth noting that the World Health Organization estimates that abortions occur at 170% the rate demonstrated here.
+                        This would mean that since your arrival to this page, approximately
+                        <strong>
+                          <span id="infoCountUpWho" class="badge bg-primary shadow-primary"></span>
+                        </strong>
+                        little ones have left this world
+                        <strong>far too early</strong>. 
+                        We decided to use the more conservative estimates put forward by the Guttmacher Institute as the primary source for all of our graphics.
                     </p>
 
                     <div class="d-flex flex-column flex-sm-row">
-                      <a href="#" class="btn btn-primary shadow-primary btn-lg mb-3 mb-sm-0 me-sm-4">
+                      <a 
+                      href="https://github.com/abortions-live/abortions-live" 
+                      target="_blank" rel="noopener noreferrer"
+                      class="btn btn-primary shadow-primary btn-lg mb-3 mb-sm-0 me-sm-4"
+                      >
                         Learn more
                         <i class="bx bxl-github fs-4 lh-1 ms-2 me-n1"></i>
                       </a>
-                      <a href="#" class="btn btn-outline-light btn-lg">
+                      <a
+                      href="https://github.com/abortions-live/abortions-live" 
+                      target="_blank" rel="noopener noreferrer"
+                      class="btn btn-outline-light btn-lg"
+                      >
                         Who we are
                         <i class="bx bx-right-arrow-alt fs-4 lh-1 ms-2 me-n1"></i>
                       </a>
@@ -568,7 +596,11 @@
                 If any of these sound like you, and you would like to help, come join the team!
               </p>
 
-              <a href="#" class="btn btn-primary">
+              <a 
+              href="https://github.com/abortions-live/abortions-live" 
+              target="_blank" rel="noopener noreferrer"
+              class="btn btn-primary"
+              >
                 Learn more
                 <i class="bx bxl-github fs-4 lh-1 ms-2 me-n1"></i>
               </a>
@@ -791,6 +823,7 @@
     <script src="assets/vendor/@lottiefiles/lottie-player/dist/lottie-player.js"></script>
     <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
     <script src="assets/vendor/cleave.js/dist/cleave.min.js"></script>
+    
     <script src="assets/js/typed/lib/typed.min.js"></script>
     <script src="assets/js/typed.js"></script>
 
