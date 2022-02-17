@@ -1,213 +1,227 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>abortions.live</title>
 
-    <!-- Viewport -->
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<head>
+  <meta charset="utf-8">
+  <title>abortions.live</title>
 
-    <!-- Favicon and Touch Icons -->
-    <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
-    <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
-    <link rel="manifest" href="assets/favicon/site.webmanifest">
-    <link rel="shortcut icon" href="assets/favicon/favicon.ico">
-    <meta name="msapplication-TileColor" content="#080032">
-    <meta name="theme-color" content="#ffffff">
+  <!-- Viewport -->
+  <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- SEO Meta Tags -->
-    <link rel="canonical" href="https://abortions.live/"/>
-    <meta name="description" content="abortions.live - Live abortion graphics and statistics">
-    <meta name="keywords" content="abortions.live, live, abortion, graphics, statistics, prolife, pro, life, pro-life">
-    <meta name="author" content="abortions.live">
+  <!-- Favicon and Touch Icons -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/favicon/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
+  <link rel="manifest" href="assets/favicon/site.webmanifest">
+  <link rel="shortcut icon" href="assets/favicon/favicon.ico">
+  <meta name="msapplication-TileColor" content="#080032">
+  <meta name="theme-color" content="#ffffff">
 
-    <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="abortions.live">
-    <meta itemprop="description" content="abortions.live - Live abortion graphics and statistics">
-    <meta itemprop="image" content="assets/img/babies/2t-white-womb.png">
+  <!-- SEO Meta Tags -->
+  <link rel="canonical" href="https://abortions.live/" />
+  <meta name="description" content="abortions.live - Live abortion graphics and statistics">
+  <meta name="keywords" content="abortions.live, live, abortion, graphics, statistics, prolife, pro, life, pro-life">
+  <meta name="author" content="abortions.live">
 
-    <!-- Twitter Card data -->
-    <meta name="twitter:card" content="portfolio">
-    <meta name="twitter:site" content="@abortions.live">
-    <meta name="twitter:title" content="abortions.live">
-    <meta name="twitter:description" content="abortions.live - Live abortion graphics and statistics">
-    <meta name="twitter:creator" content="@abortions.live">
-    <meta name="twitter:image" content="assets/img/babies/2t-white-womb.png">
-    <meta name="twitter:image:alt" content="a baby in the second trimester">
-    <meta name="twitter:data1" content="abortions.live">
-    <meta name="twitter:label1" content="abortions.live">
+  <!-- Schema.org markup for Google+ -->
+  <meta itemprop="name" content="abortions.live">
+  <meta itemprop="description" content="abortions.live - Live abortion graphics and statistics">
+  <meta itemprop="image" content="assets/img/babies/2t-white-womb.png">
 
-    <!-- Open Graph data -->
-    <meta property="og:title" content="abortions.live" />
-    <meta property="og:type" content="abortions.live" />
-    <meta property="og:url" content="https://abortions.live/" />
-    <meta property="og:image" content="assets/img/babies/2t-white-womb.png"/>
-    <meta property="og:description" content="abortions.live - Live abortion graphics and statistics" />
-    <meta property="og:site_name" content="abortions.live" />
+  <!-- Twitter Card data -->
+  <meta name="twitter:card" content="portfolio">
+  <meta name="twitter:site" content="@abortions.live">
+  <meta name="twitter:title" content="abortions.live">
+  <meta name="twitter:description" content="abortions.live - Live abortion graphics and statistics">
+  <meta name="twitter:creator" content="@abortions.live">
+  <meta name="twitter:image" content="assets/img/babies/2t-white-womb.png">
+  <meta name="twitter:image:alt" content="a baby in the second trimester">
+  <meta name="twitter:data1" content="abortions.live">
+  <meta name="twitter:label1" content="abortions.live">
 
-    <!-- Vendor Styles -->
-    <link rel="stylesheet" media="screen" href="assets/vendor/boxicons/css/boxicons.min.css"/>
-    <link rel="stylesheet" media="screen" href="assets/vendor/swiper/swiper-bundle.min.css"/>
+  <!-- Open Graph data -->
+  <meta property="og:title" content="abortions.live" />
+  <meta property="og:type" content="abortions.live" />
+  <meta property="og:url" content="https://abortions.live/" />
+  <meta property="og:image" content="assets/img/babies/2t-white-womb.png" />
+  <meta property="og:description" content="abortions.live - Live abortion graphics and statistics" />
+  <meta property="og:site_name" content="abortions.live" />
 
-    <!-- Main Theme Styles + Bootstrap -->
-    <link rel="stylesheet" media="screen" href="assets/css/theme.min.css">
+  <!-- Vendor Styles -->
+  <link rel="stylesheet" media="screen" href="assets/vendor/boxicons/css/boxicons.min.css" />
+  <link rel="stylesheet" media="screen" href="assets/vendor/swiper/swiper-bundle.min.css" />
+
+  <!-- Main Theme Styles + Bootstrap -->
+  <link rel="stylesheet" media="screen" href="assets/css/theme.min.css">
 
 
-    <!-- Map Box CSS -->
-    <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
-    <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.css" type="text/css">
+  <!-- Map Box CSS -->
+  <link href="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.css" type="text/css">
 
-    <!-- Page loading styles -->
-    <style>
-      .page-loading {
-        position: fixed;
-        top: 0;
-        right: 0;
-        bottom: 0;
-        left: 0;
-        width: 100%;
-        height: 100%;
-        -webkit-transition: all .4s .2s ease-in-out;
-        transition: all .4s .2s ease-in-out;
-        background-color: #fff;
-        opacity: 0;
-        visibility: hidden;
-        z-index: 9999;
+  <!-- Page loading styles -->
+  <style>
+    .page-loading {
+      position: fixed;
+      top: 0;
+      right: 0;
+      bottom: 0;
+      left: 0;
+      width: 100%;
+      height: 100%;
+      -webkit-transition: all .4s .2s ease-in-out;
+      transition: all .4s .2s ease-in-out;
+      background-color: #fff;
+      opacity: 0;
+      visibility: hidden;
+      z-index: 9999;
+    }
+
+    .dark-mode .page-loading {
+      background-color: #131022;
+    }
+
+    .page-loading.active {
+      opacity: 1;
+      visibility: visible;
+    }
+
+    .page-loading-inner {
+      position: absolute;
+      top: 50%;
+      left: 0;
+      width: 100%;
+      text-align: center;
+      -webkit-transform: translateY(-50%);
+      transform: translateY(-50%);
+      -webkit-transition: opacity .2s ease-in-out;
+      transition: opacity .2s ease-in-out;
+      opacity: 0;
+    }
+
+    .page-loading.active>.page-loading-inner {
+      opacity: 1;
+    }
+
+    .page-loading-inner>span {
+      display: block;
+      font-size: 1rem;
+      font-weight: normal;
+      color: #9397ad;
+    }
+
+    .dark-mode .page-loading-inner>span {
+      color: #fff;
+      opacity: .6;
+    }
+
+    .page-spinner {
+      display: inline-block;
+      width: 2.75rem;
+      height: 2.75rem;
+      margin-bottom: .75rem;
+      vertical-align: text-bottom;
+      border: .15em solid #b4b7c9;
+      border-right-color: transparent;
+      border-radius: 50%;
+      -webkit-animation: spinner .75s linear infinite;
+      animation: spinner .75s linear infinite;
+    }
+
+    .dark-mode .page-spinner {
+      border-color: rgba(255, 255, 255, .4);
+      border-right-color: transparent;
+    }
+
+    @-webkit-keyframes spinner {
+      100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
       }
-      .dark-mode .page-loading {
-        background-color: #131022;
-      }
-      .page-loading.active {
-        opacity: 1;
-        visibility: visible;
-      }
-      .page-loading-inner {
-        position: absolute;
-        top: 50%;
-        left: 0;
-        width: 100%;
-        text-align: center;
-        -webkit-transform: translateY(-50%);
-        transform: translateY(-50%);
-        -webkit-transition: opacity .2s ease-in-out;
-        transition: opacity .2s ease-in-out;
-        opacity: 0;
-      }
-      .page-loading.active > .page-loading-inner {
-        opacity: 1;
-      }
-      .page-loading-inner > span {
-        display: block;
-        font-size: 1rem;
-        font-weight: normal;
-        color: #9397ad;
-      }
-      .dark-mode .page-loading-inner > span {
-        color: #fff;
-        opacity: .6;
-      }
-      .page-spinner {
-        display: inline-block;
-        width: 2.75rem;
-        height: 2.75rem;
-        margin-bottom: .75rem;
-        vertical-align: text-bottom;
-        border: .15em solid #b4b7c9;
-        border-right-color: transparent;
-        border-radius: 50%;
-        -webkit-animation: spinner .75s linear infinite;
-        animation: spinner .75s linear infinite;
-      }
-      .dark-mode .page-spinner {
-        border-color: rgba(255,255,255,.4);
-        border-right-color: transparent;
-      }
-      @-webkit-keyframes spinner {
-        100% {
-          -webkit-transform: rotate(360deg);
-          transform: rotate(360deg);
-        }
-      }
-      @keyframes spinner {
-        100% {
-          -webkit-transform: rotate(360deg);
-          transform: rotate(360deg);
-        }
-      }
-    </style>
+    }
 
-    <style>
-      .sky {
-        background-image: url("assets/img/sky.jpg");
+    @keyframes spinner {
+      100% {
+        -webkit-transform: rotate(360deg);
+        transform: rotate(360deg);
       }
-      #mapRelative {
-        height: 400px
-      }
-      #mapTotal {
-        height: 400px
-      }
-    </style>
+    }
+  </style>
 
-    <!-- Theme mode -->
-    <script>
-      let mode = window.localStorage.getItem('mode'),
-          root = document.getElementsByTagName('html')[0];
-      if (mode !== undefined && mode === 'dark') {
-        root.classList.add('dark-mode');
-      } else {
-        root.classList.remove('dark-mode');
-      }
-    </script>
+  <style>
+    .sky {
+      background-image: url("assets/img/sky.jpg");
+    }
 
-  </head>
+    #mapRelative {
+      height: 400px
+    }
+
+    #mapTotal {
+      height: 400px
+    }
+  </style>
+
+  <!-- Theme mode -->
+  <script>
+    let mode = window.localStorage.getItem('mode'),
+      root = document.getElementsByTagName('html')[0];
+    if (mode !== undefined && mode === 'dark') {
+      root.classList.add('dark-mode');
+    } else {
+      root.classList.remove('dark-mode');
+    }
+  </script>
+
+</head>
 
 
-  <!-- Body -->
-  <body>
+<!-- Body -->
 
-    <!-- Page loading spinner -->
-    <div class="page-loading active">
-      <div class="page-loading-inner">
-        <div class="page-spinner"></div><span>Loading...</span>
-      </div>
+<body>
+
+  <!-- Page loading spinner -->
+  <div class="page-loading active">
+    <div class="page-loading-inner">
+      <div class="page-spinner"></div><span>Loading...</span>
     </div>
+  </div>
 
 
-    <!-- Page wrapper for sticky footer -->
-    <!-- Wraps everything except footer to push footer to the bottom of the page if there is little content -->
-    <main class="page-wrapper">
+  <!-- Page wrapper for sticky footer -->
+  <!-- Wraps everything except footer to push footer to the bottom of the page if there is little content -->
+  <main class="page-wrapper">
 
-      <!-- Sprinkler -->
-      <section class="pt-lg-4 mt-lg-3">
-        <div class="position-relative overflow-hidden">
-  
-          <!-- Image -->
-          <div class="container-fluid position-relative position-lg-absolute top-0 start-0 h-100">
-            <div class="row h-100 me-n4 me-n2">
-              <div class="col-lg-7 position-relative">
-                <div class="d-none d-sm-block d-lg-none" style="height: 400px;"></div>
-                <div class="d-sm-none" style="height: 300px;"></div>
-                <div class="jarallax position-absolute top-0 start-0 w-100 h-100 rounded-3 rounded-start-0" data-jarallax data-speed="0.5">
-                    <canvas class="jarallax-img sky" id="canvas" >
-                    </canvas>
-                </div>
+    <!-- Sprinkler -->
+    <section class="pt-lg-4 mt-lg-3">
+      <div class="position-relative overflow-hidden">
+
+        <!-- Image -->
+        <div class="container-fluid position-relative position-lg-absolute top-0 start-0 h-100">
+          <div class="row h-100 me-n4 me-n2">
+            <div class="col-lg-7 position-relative">
+              <div class="d-none d-sm-block d-lg-none" style="height: 400px;"></div>
+              <div class="d-sm-none" style="height: 300px;"></div>
+              <div class="jarallax position-absolute top-0 start-0 w-100 h-100 rounded-3 rounded-start-0" data-jarallax data-speed="0.5">
+                <canvas class="jarallax-img sky" id="canvas">
+                </canvas>
               </div>
             </div>
           </div>
+        </div>
 
-          <div class="container position-relative zindex-5 pt-lg-5 px-0 px-lg-3">
-            <div class="row pt-lg-5 mx-n4 mx-lg-n3">
-              <div class="col-xl-6 col-lg-7 offset-lg-5 offset-xl-6 pb-5">
-  
-                <!-- Card -->
-                <div class="card bg-dark border-light overflow-hidden py-4 px-2 p-sm-4">
-                  <span class="position-absolute top-0 start-0 w-100 h-100" style="background-color: rgba(255,255,255,.05);"></span>
-                  <div class="card-body position-relative zindex-5">
-                    <!-- Heading -->
-                    <div class='mb-3' style="height: 5em">
-                      <p class="fs-xl fw-bold text-primary text-uppercase">
-                        <!--
+        <div class="container position-relative zindex-5 pt-lg-5 px-0 px-lg-3">
+          <div class="row pt-lg-5 mx-n4 mx-lg-n3">
+            <div class="col-xl-6 col-lg-7 offset-lg-5 offset-xl-6 pb-5">
+
+              <!-- Card -->
+              <div class="card bg-dark border-light overflow-hidden py-4 px-2 p-sm-4">
+                <span class="position-absolute top-0 start-0 w-100 h-100" style="background-color: rgba(255,255,255,.05);"></span>
+                <div class="card-body position-relative zindex-5">
+                  <!-- Heading -->
+                  <div class='mb-3' style="height: 5em">
+                    <p class="fs-xl fw-bold text-primary text-uppercase">
+                      <!--
                           0. Hebrew - The Orginal language of the verse
                           0. Latin - The Universal Language
                           1. Chinese — 1.3 Billion Native Speakers
@@ -216,7 +230,7 @@
                           4. Hindi — 342 Million Native Speakers
                           5. Arabic — 315 Million Native Speakers
                         -->
-                        <span data-toggle="typed" data-options='{"strings": [
+                      <span data-toggle="typed" data-options='{"strings": [
                             "פתח פיך לאלם אל דין כל בני חלוף׃",
                             "aperi os tuum muto et causis omnium filiorum qui pertranseunt",
                             "你当为哑吧（或作不能自辨的）开口，为一切孤独的伸冤。",
@@ -225,410 +239,372 @@
                             "गूंगे के लिये अपना मुंह खोल, और सब अनाथों का न्याय उचित रीति से किया कर।",
                             "اِفْتَحْ فَمَكَ لأَجْلِ الأَخْرَسِ فِي دَعْوَى كُلِّ يَتِيمٍ."
                         ]}'></span>
-                      </p>
-                    </div>
-                    <!--
+                    </p>
+                  </div>
+                  <!--
                     <h2 class="display-6 text-light pb-3 mb-3">
                       Learn how you can help
                     </h2>
                     -->
-                    <p class="fs-lg text-light opacity-90 mb-5">
-                        Around the world, an estimated 
-                        <strong>
-                          <span id="infoCountMinute"></span>
-                        </strong>
-                        babies are aborted every 
-                        <strong>
-                          minute
-                        </strong>.
-                        Thus, since your arrival to this page, approximately
-                        <strong>
-                          <span id="infoCountUp" class="badge bg-primary shadow-primary"></span>
-                        </strong>
-                        little ones have left this world
-                        <strong>far too early</strong>. 
-                        It is worth noting that the World Health Organization estimates that abortions occur at 170% the rate demonstrated here.
-                        This would mean that since your arrival to this page, approximately
-                        <strong>
-                          <span id="infoCountUpWho" class="badge bg-primary shadow-primary"></span>
-                        </strong>
-                        little ones have left this world
-                        <strong>far too early</strong>. 
-                        We decided to use the more conservative estimates put forward by the Guttmacher Institute as the primary source for all of our graphics.
-                    </p>
+                  <p class="fs-lg text-light opacity-90 mb-5">
+                    Around the world, an estimated
+                    <strong>
+                      <span id="infoCountMinute"></span>
+                    </strong>
+                    babies are aborted every
+                    <strong>
+                      minute
+                    </strong>.
+                    Thus, since your arrival to this page, approximately
+                    <strong>
+                      <span id="infoCountUp" class="badge bg-primary shadow-primary"></span>
+                    </strong>
+                    little ones have left this world
+                    <strong>far too early</strong>.
+                    It is worth noting that the World Health Organization estimates that abortions occur at 170% the rate demonstrated here.
+                    This would mean that since your arrival to this page, approximately
+                    <strong>
+                      <span id="infoCountUpWho" class="badge bg-primary shadow-primary"></span>
+                    </strong>
+                    little ones have left this world
+                    <strong>far too early</strong>.
+                    We decided to use the more conservative estimates put forward by the Guttmacher Institute as the primary source for all of our graphics.
+                  </p>
 
-                    <div class="d-flex flex-column flex-sm-row">
-                      <a 
-                      href="https://github.com/abortions-live/abortions-live" 
-                      target="_blank" rel="noopener noreferrer"
-                      class="btn btn-primary shadow-primary btn-lg mb-3 mb-sm-0 me-sm-4"
-                      >
-                        Learn more
-                        <i class="bx bxl-github fs-4 lh-1 ms-2 me-n1"></i>
-                      </a>
-                      <a
-                      href="https://github.com/abortions-live/abortions-live" 
-                      target="_blank" rel="noopener noreferrer"
-                      class="btn btn-outline-light btn-lg"
-                      >
-                        Who we are
-                        <i class="bx bx-right-arrow-alt fs-4 lh-1 ms-2 me-n1"></i>
-                      </a>
-                    </div>
+                  <div class="d-flex flex-column flex-sm-row">
+                    <a href="https://github.com/abortions-live/abortions-live" target="_blank" rel="noopener noreferrer" class="btn btn-primary shadow-primary btn-lg mb-3 mb-sm-0 me-sm-4">
+                      Learn more
+                      <i class="bx bxl-github fs-4 lh-1 ms-2 me-n1"></i>
+                    </a>
+                    <a href="https://github.com/abortions-live/abortions-live" target="_blank" rel="noopener noreferrer" class="btn btn-outline-light btn-lg">
+                      Who we are
+                      <i class="bx bx-right-arrow-alt fs-4 lh-1 ms-2 me-n1"></i>
+                    </a>
                   </div>
                 </div>
               </div>
-              <div class="col-xxl-3 col-lg-4 offset-lg-8 offset-xxl-9 pt-lg-5 mt-xxl-5">
-  
+            </div>
+            <div class="col-xxl-3 col-lg-4 offset-lg-8 offset-xxl-9 pt-lg-5 mt-xxl-5">
 
-              </div>
+
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
-      <!-- Profiles -->
-      <section class="container py-5 mb-2 mt-md-2 mb-md-4 mt-lg-4 mb-lg-5">
+    <!-- Profiles -->
+    <section class="container py-5 mb-2 mt-md-2 mb-md-4 mt-lg-4 mb-lg-5">
 
 
-          <div class="pt-4 col-12 row align-items-md-stretch">
+      <div class="pt-4 col-12 row align-items-md-stretch">
 
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4" >
-                    <h2 class="text-center text-md-start mx-auto mx-md-0 pt-md-2" style="max-width: 300px;">
-                      Meet Those
-                      <br class="d-none d-md-inline">
-                      Aborted In The
-                      <br class="d-none d-md-inline">
-                      Last 5.5 Seconds:
-                    </h2>
-                  </div>
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4">
+          <h2 class="text-center text-md-start mx-auto mx-md-0 pt-md-2" style="max-width: 300px;">
+            Meet Those
+            <br class="d-none d-md-inline">
+            Aborted In The
+            <br class="d-none d-md-inline">
+            Last 5.5 Seconds:
+          </h2>
+        </div>
 
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img 
-                        src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
 
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img 
-                          src="" 
-                          width="48" 
-                          class="rounded-circle profile-pic" 
-                          >
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-
-                      </div>
-                    </figure>
-                  </div>
-    
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
-
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img src="" width="48" class="rounded-circle profile-pic" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-                      </div>
-                    </figure>
-                  </div>
-    
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
-
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img src="" width="48" class="rounded-circle profile-pic" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-                      </div>
-                    </figure>
-                  </div>
-    
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
-
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img src="" width="48" class="rounded-circle profile-pic" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-
-                      </div>
-                    </figure>
-                  </div>
-    
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
-
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img src="" width="48" class="rounded-circle profile-pic" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-                      </div>
-                    </figure>
-                  </div>
-    
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
-
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img src="" width="48" class="rounded-circle profile-pic" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-                      </div>
-                    </figure>
-                  </div>
-
-                  <!-- Item -->
-                  <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
-                    <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
-                      <div class="card h-100 position-relative border-0 shadow-sm pt-4">
-                        <img src="assets/img/flags/4.svg"  
-                        width="48" 
-                        class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag"
-                        />
-
-                        <blockquote class="card-body pb-3 mb-0">
-                          <p class="mb-0">
-                            <span class="profile-greeting"></span>!
-                            My name could have been <span class="profile-first-name"></span>. 
-                            I could have grown up to work in the <span class="profile-industry"></span> industry 
-                            and create <span class="profile-child-expectancy"></span> 
-                            beautiful child<span class="profile-child-ren"></span>
-                            with my spouse<span class="profile-spouse-name"></span>. 
-                            I could have lived <span class="profile-life-expectancy"></span> 
-                            happy years on Earth, instead, I was aborted.
-                          </p>
-                        </blockquote>
-
-                        <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
-                          <img src="" width="48" class="rounded-circle profile-pic" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
-                            <span class="fs-xs text-muted">Victim or abortion</span>
-                          </div>
-                        </div>
-                      </div>
-                    </figure>
-                  </div>
-          </div>
-
-      </section>
-
-      <!-- Maps -->
-      <section class="container py-5 mt-md-3 my-lg-5">
-        
-        <h2 class="h1 pt-xl-2 pb-4 mb-2 mb-lg-3">Annual abortion maps</h2>
-
-        <div class="mb-4 row align-items-md-stretch">
-
-            <div class="col-md-6">
-              <div id="mapTotal" class="rounded-3"></div>
-              <div class="pt-4">
-                <h3 class="h4">Total annual abortions</h3>
-                <p>
-                  If you navigate to a country of your choice, you will see the estimated number of abortions that occur each year in that country.
-                  There are two important exceptions. 
-                  First, the data for the Democratic Republic of Congo only contains information from the capital city, Kinshasa.
-                  Second, the data for Bosnia only contains information from the Republic Srpska and the Canton Sarajevo.
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
                 </p>
+              </blockquote>
 
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
               </div>
-            </div>
 
-            <div class="col-md-6">              
-              <div id="mapRelative" class="rounded-3"></div>
-              <div class="pt-4">
-                <h3 class="h4">Abortions per 100K people</h3>
-                <p>
-                  If you navigate to a country of your choice, you will see the estimated number of abortions that occur each year in that country per 100,000 people in that countries population.
-                  There are two important exceptions. 
-                  First, the data for the Democratic Republic of Congo only contains information from the capital city, Kinshasa.
-                  Second, the data for Bosnia only contains information from the Republic Srpska and the Canton Sarajevo.
+            </div>
+          </figure>
+        </div>
+
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
+
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
                 </p>
+              </blockquote>
+
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic" alt="...">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
               </div>
             </div>
+          </figure>
+        </div>
+
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
+
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
+                </p>
+              </blockquote>
+
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic" alt="...">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
+              </div>
+            </div>
+          </figure>
+        </div>
+
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
+
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
+                </p>
+              </blockquote>
+
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic" alt="...">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
+              </div>
+
+            </div>
+          </figure>
+        </div>
+
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
+
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
+                </p>
+              </blockquote>
+
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic" alt="...">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
+              </div>
+            </div>
+          </figure>
+        </div>
+
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
+
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
+                </p>
+              </blockquote>
+
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic" alt="...">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
+              </div>
+            </div>
+          </figure>
+        </div>
+
+        <!-- Item -->
+        <div class="h-auto pt-4 col-md-3 pb-4 profile-div">
+          <figure class="d-flex flex-column h-100 px-2 px-sm-0 mb-0 mx-2">
+            <div class="card h-100 position-relative border-0 shadow-sm pt-4">
+              <img src="assets/img/flags/4.svg" width="48" class="shadow-primary position-absolute top-0 start-0 translate-middle-y ms-4 profile-flag" />
+
+              <blockquote class="card-body pb-3 mb-0">
+                <p class="mb-0">
+                  <span class="profile-greeting"></span>!
+                  My name could have been <span class="profile-first-name"></span>.
+                  I could have grown up to work in the <span class="profile-industry"></span> industry
+                  and create <span class="profile-child-expectancy"></span>
+                  beautiful child<span class="profile-child-ren"></span>
+                  with my spouse<span class="profile-spouse-name"></span>.
+                  I could have lived <span class="profile-life-expectancy"></span>
+                  happy years on Earth, instead, I was aborted.
+                </p>
+              </blockquote>
+
+              <div class="border-0 d-flex align-items-center ps-4 pt-4 pb-4">
+                <img src="" width="48" class="rounded-circle profile-pic" alt="...">
+                <div class="ps-3">
+                  <h6 class="fs-sm fw-semibold mb-0 profile-name"></h6>
+                  <span class="fs-xs text-muted">Victim of abortion</span>
+                </div>
+              </div>
+            </div>
+          </figure>
+        </div>
+      </div>
+
+    </section>
+
+    <!-- Maps -->
+    <section class="container py-5 mt-md-3 my-lg-5">
+
+      <h2 class="h1 pt-xl-2 pb-4 mb-2 mb-lg-3">Annual abortion maps</h2>
+
+      <div class="mb-4 row align-items-md-stretch">
+
+        <div class="col-md-6">
+          <div id="mapTotal" class="rounded-3"></div>
+          <div class="pt-4">
+            <h3 class="h4">Total annual abortions</h3>
+            <p>
+              If you navigate to a country of your choice, you will see the estimated number of abortions that occur each year in that country.
+              There are two important exceptions.
+              First, the data for the Democratic Republic of Congo only contains information from the capital city, Kinshasa.
+              Second, the data for Bosnia only contains information from the Republic Srpska and the Canton Sarajevo.
+            </p>
 
           </div>
         </div>
-              
-      </section>
 
-      <!-- Help banner -->
-      <section class="container pb-4 ">
-        <div class="card bg-white border-primary shadow-sm px-4 px-lg-0">
-          <div class="row align-items-center py-3">
-            <div class="col-xl-5 col-md-6 offset-lg-1 text-center text-md-start py-4 py-lg-5">
-              <h2 class="h1">Calling all techies!</h2>
-              <h3 class="h4 text-primary">We are a completely, 100%, open-source project and always looking for more help!</h3>
-              <p class="mb-4 mb-lg-5">
-                We are always looking for help from Data Scientists, Software Engineers, and Designers. 
-                If any of these sound like you, and you would like to help, come join the team!
-              </p>
-
-              <a 
-              href="https://github.com/abortions-live/abortions-live" 
-              target="_blank" rel="noopener noreferrer"
-              class="btn btn-primary"
-              >
-                Learn more
-                <i class="bx bxl-github fs-4 lh-1 ms-2 me-n1"></i>
-              </a>
-            </div>
-            <div class="col-xl-6 col-lg-5 col-md-6">
-              <lottie-player class="mx-auto" src="assets/json/animation/cta-techies.json" background="transparent" speed="1" loop autoplay style="max-width: 416px;"></lottie-player>
-            </div>
+        <div class="col-md-6">
+          <div id="mapRelative" class="rounded-3"></div>
+          <div class="pt-4">
+            <h3 class="h4">Abortions per 100K people</h3>
+            <p>
+              If you navigate to a country of your choice, you will see the estimated number of abortions that occur each year in that country per 100,000 people in that countries population.
+              There are two important exceptions.
+              First, the data for the Democratic Republic of Congo only contains information from the capital city, Kinshasa.
+              Second, the data for Bosnia only contains information from the Republic Srpska and the Canton Sarajevo.
+            </p>
           </div>
         </div>
-      </section>
 
-      <!-- Up close -->
-      <section class="bg-secondary py-5">
-        <div class="container py-2 py-md-4 py-lg-5">
-          <h2 class="h1 text-center pb-4 mb-1 mb-lg-3">What does abortion look like up close?</h2>
-          <div class="position-relative px-xl-5">
-          
-            <!-- Slider prev/next buttons -->
-            <button type="button" id="prev-news" class="btn btn-prev btn-icon btn-sm position-absolute top-50 start-0 translate-middle-y d-none d-xl-inline-flex">
-              <i class="bx bx-chevron-left"></i>
-            </button>
-            <button type="button" id="next-news" class="btn btn-next btn-icon btn-sm position-absolute top-50 end-0 translate-middle-y d-none d-xl-inline-flex">
-              <i class="bx bx-chevron-right"></i>
-            </button>
-  
-            <!-- Slider -->
-            <div class="px-xl-2">
-              <div class="swiper mx-n2" data-swiper-options='{
+      </div>
+      </div>
+
+    </section>
+
+    <!-- Help banner -->
+    <section class="container pb-4 ">
+      <div class="card bg-white border-primary shadow-sm px-4 px-lg-0">
+        <div class="row align-items-center py-3">
+          <div class="col-xl-5 col-md-6 offset-lg-1 text-center text-md-start py-4 py-lg-5">
+            <h2 class="h1">Calling all techies!</h2>
+            <h3 class="h4 text-primary">We are a completely, 100%, open-source project and always looking for more help!</h3>
+            <p class="mb-4 mb-lg-5">
+              We are always looking for help from Data Scientists, Software Engineers, and Designers.
+              If any of these sound like you, and you would like to help, come join the team!
+            </p>
+
+            <a href="https://github.com/abortions-live/abortions-live" target="_blank" rel="noopener noreferrer" class="btn btn-primary">
+              Learn more
+              <i class="bx bxl-github fs-4 lh-1 ms-2 me-n1"></i>
+            </a>
+          </div>
+          <div class="col-xl-6 col-lg-5 col-md-6">
+            <lottie-player class="mx-auto" src="assets/json/animation/cta-techies.json" background="transparent" speed="1" loop autoplay style="max-width: 416px;"></lottie-player>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Up close -->
+    <section class="bg-secondary py-5">
+      <div class="container py-2 py-md-4 py-lg-5">
+        <h2 class="h1 text-center pb-4 mb-1 mb-lg-3">What does abortion look like up close?</h2>
+        <div class="position-relative px-xl-5">
+
+          <!-- Slider prev/next buttons -->
+          <button type="button" id="prev-news" class="btn btn-prev btn-icon btn-sm position-absolute top-50 start-0 translate-middle-y d-none d-xl-inline-flex">
+            <i class="bx bx-chevron-left"></i>
+          </button>
+          <button type="button" id="next-news" class="btn btn-next btn-icon btn-sm position-absolute top-50 end-0 translate-middle-y d-none d-xl-inline-flex">
+            <i class="bx bx-chevron-right"></i>
+          </button>
+
+          <!-- Slider -->
+          <div class="px-xl-2">
+            <div class="swiper mx-n2" data-swiper-options='{
                 "slidesPerView": 1,
                 "loop": true,
                 "pagination": {
@@ -648,208 +624,176 @@
                   }
                 }
               }'>
-                <div class="swiper-wrapper">
-      
-                  <!-- Item -->
-                  <div class="swiper-slide h-auto pb-3">
-                    <article class="card h-100 border-0 shadow-sm mx-2">
-                      <div class="position-relative">
-                        <iframe 
-                          class="card-img-top" 
-                          height="200" 
-                          src="https://www.youtube.com/embed/lRDnVSMr5j0" 
-                          title="YouTube video player" 
-                          frameborder="0" 
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                          allowfullscreen
-                        >
-                        </iframe>
+              <div class="swiper-wrapper">
 
-                      </div>
-                      <div class="card-body pb-4">
-                        <div class="d-flex align-items-center justify-content-between mb-3">
-                          <a href="https://youtu.be/lRDnVSMr5j0" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">1st Trimester</a>
-                          <span class="fs-sm text-muted">May 3, 2016</span>
-                        </div>
-                        <h3 class="h5 mb-0">
-                          <a href="https://youtu.be/lRDnVSMr5j0" target="_blank" rel="noopener noreferrer">1st Trimester Medical Abortion: Abortion Pills</a>
-                        </h3>
-                      </div>
-                      <div class="card-footer py-4">
-                        <a href="https://youtu.be/lRDnVSMr5j0" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
-                          <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
-                            <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
-                          </div>
-                        </a>
-                      </div>
-                    </article>
-                  </div>
-      
-                  <!-- Item -->
-                  <div class="swiper-slide h-auto pb-3">
-                    <article class="card h-100 border-0 shadow-sm mx-2">
-                      <div class="position-relative">
-                        <iframe 
-                          class="card-img-top" 
-                          height="200" 
-                          src="https://www.youtube.com/embed/5THDmys8z30" 
-                          title="YouTube video player" 
-                          frameborder="0" 
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                          allowfullscreen
-                        >
-                        </iframe>
-                      </div>
-                      <div class="card-body pb-4">
-                        <div class="d-flex align-items-center justify-content-between mb-3">
-                          <a href="https://youtu.be/5THDmys8z30" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">1st Trimester</a>
-                          <span class="fs-sm text-muted">Feb 23, 2016</span>
-                        </div>
-                        <h3 class="h5 mb-0">
-                          <a href="https://youtu.be/5THDmys8z30" target="_blank" rel="noopener noreferrer">1st Trimester Surgical Abortion: Suction (Aspiration) D & C</a>
-                        </h3>
-                      </div>
-                      <div class="card-footer py-4">
-                        <a href="https://youtu.be/5THDmys8z30" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
-                          <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
-                            <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
-                          </div>
-                        </a>
-                      </div>
-                    </article>
-                  </div>
-      
-                  <!-- Item -->
-                  <div class="swiper-slide h-auto pb-3">
-                    <article class="card h-100 border-0 shadow-sm mx-2">
-                      <div class="position-relative">
-                        <iframe 
-                          class="card-img-top" 
-                          height="200" 
-                          src="https://www.youtube.com/embed/jgw4X7Dw_3k" 
-                          title="YouTube video player" 
-                          frameborder="0" 
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                          allowfullscreen
-                        >
-                        </iframe>
-                      </div>
-                      <div class="card-body pb-4">
-                        <div class="d-flex align-items-center justify-content-between mb-3">
-                          <a href="https://youtu.be/jgw4X7Dw_3k" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">2nd Trimester</a>
-                          <span class="fs-sm text-muted">Feb 24, 2016</span>
-                        </div>
-                        <h3 class="h5 mb-0">
-                          <a href="https://youtu.be/jgw4X7Dw_3k" target="_blank" rel="noopener noreferrer">2nd Trimester Surgical Abortion: Dilation and Evacuation (D & E)</a>
-                        </h3>
-                      </div>
-                      <div class="card-footer py-4">
-                        <a href="https://youtu.be/jgw4X7Dw_3k" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
-                          <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
-                            <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
-                          </div>
-                        </a>
-                      </div>
-                    </article>
-                  </div>
-      
-                  <!-- Item -->
-                  <div class="swiper-slide h-auto pb-3">
-                    <article class="card h-100 border-0 shadow-sm mx-2">
-                      <div class="position-relative">
-                        <iframe 
-                          class="card-img-top"
-                          height="200" 
-                          src="https://www.youtube.com/embed/r5Af8vIym2o" 
-                          title="YouTube video player" 
-                          frameborder="0" 
-                          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-                          allowfullscreen
-                        >
-                        </iframe>
-                      </div>
-                      <div class="card-body pb-4">
-                        <div class="d-flex align-items-center justify-content-between mb-3">
-                          <a href="https://youtu.be/r5Af8vIym2o" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">3rd Trimester</a>
-                          <span class="fs-sm text-muted">Feb 24, 2016</span>
-                        </div>
-                        <h3 class="h5 mb-0">
-                          <a href="https://youtu.be/r5Af8vIym2o" target="_blank" rel="noopener noreferrer">3rd Trimester Induction Abortion: Injection and Stillbirth</a>
-                        </h3>
-                      </div>
-                      <div class="card-footer py-4">
-                        <a href="https://youtu.be/r5Af8vIym2o" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
-                          <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
-                          <div class="ps-3">
-                            <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
-                            <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
-                          </div>
-                        </a>
-                      </div>
-                    </article>
-                  </div>
+                <!-- Item -->
+                <div class="swiper-slide h-auto pb-3">
+                  <article class="card h-100 border-0 shadow-sm mx-2">
+                    <div class="position-relative">
+                      <iframe class="card-img-top" height="200" src="https://www.youtube.com/embed/lRDnVSMr5j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                      </iframe>
 
-
+                    </div>
+                    <div class="card-body pb-4">
+                      <div class="d-flex align-items-center justify-content-between mb-3">
+                        <a href="https://youtu.be/lRDnVSMr5j0" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">1st Trimester</a>
+                        <span class="fs-sm text-muted">May 3, 2016</span>
+                      </div>
+                      <h3 class="h5 mb-0">
+                        <a href="https://youtu.be/lRDnVSMr5j0" target="_blank" rel="noopener noreferrer">1st Trimester Medical Abortion: Abortion Pills</a>
+                      </h3>
+                    </div>
+                    <div class="card-footer py-4">
+                      <a href="https://youtu.be/lRDnVSMr5j0" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
+                        <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
+                        <div class="ps-3">
+                          <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
+                          <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
+                        </div>
+                      </a>
+                    </div>
+                  </article>
                 </div>
-      
-                <!-- Pagination (bullets) -->
-                <div class="swiper-pagination position-relative bottom-0 mt-4 mb-lg-2"></div>
+
+                <!-- Item -->
+                <div class="swiper-slide h-auto pb-3">
+                  <article class="card h-100 border-0 shadow-sm mx-2">
+                    <div class="position-relative">
+                      <iframe class="card-img-top" height="200" src="https://www.youtube.com/embed/5THDmys8z30" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                      </iframe>
+                    </div>
+                    <div class="card-body pb-4">
+                      <div class="d-flex align-items-center justify-content-between mb-3">
+                        <a href="https://youtu.be/5THDmys8z30" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">1st Trimester</a>
+                        <span class="fs-sm text-muted">Feb 23, 2016</span>
+                      </div>
+                      <h3 class="h5 mb-0">
+                        <a href="https://youtu.be/5THDmys8z30" target="_blank" rel="noopener noreferrer">1st Trimester Surgical Abortion: Suction (Aspiration) D & C</a>
+                      </h3>
+                    </div>
+                    <div class="card-footer py-4">
+                      <a href="https://youtu.be/5THDmys8z30" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
+                        <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
+                        <div class="ps-3">
+                          <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
+                          <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
+                        </div>
+                      </a>
+                    </div>
+                  </article>
+                </div>
+
+                <!-- Item -->
+                <div class="swiper-slide h-auto pb-3">
+                  <article class="card h-100 border-0 shadow-sm mx-2">
+                    <div class="position-relative">
+                      <iframe class="card-img-top" height="200" src="https://www.youtube.com/embed/jgw4X7Dw_3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                      </iframe>
+                    </div>
+                    <div class="card-body pb-4">
+                      <div class="d-flex align-items-center justify-content-between mb-3">
+                        <a href="https://youtu.be/jgw4X7Dw_3k" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">2nd Trimester</a>
+                        <span class="fs-sm text-muted">Feb 24, 2016</span>
+                      </div>
+                      <h3 class="h5 mb-0">
+                        <a href="https://youtu.be/jgw4X7Dw_3k" target="_blank" rel="noopener noreferrer">2nd Trimester Surgical Abortion: Dilation and Evacuation (D & E)</a>
+                      </h3>
+                    </div>
+                    <div class="card-footer py-4">
+                      <a href="https://youtu.be/jgw4X7Dw_3k" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
+                        <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
+                        <div class="ps-3">
+                          <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
+                          <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
+                        </div>
+                      </a>
+                    </div>
+                  </article>
+                </div>
+
+                <!-- Item -->
+                <div class="swiper-slide h-auto pb-3">
+                  <article class="card h-100 border-0 shadow-sm mx-2">
+                    <div class="position-relative">
+                      <iframe class="card-img-top" height="200" src="https://www.youtube.com/embed/r5Af8vIym2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+                      </iframe>
+                    </div>
+                    <div class="card-body pb-4">
+                      <div class="d-flex align-items-center justify-content-between mb-3">
+                        <a href="https://youtu.be/r5Af8vIym2o" target="_blank" rel="noopener noreferrer" class="badge fs-sm text-nav bg-secondary text-decoration-none">3rd Trimester</a>
+                        <span class="fs-sm text-muted">Feb 24, 2016</span>
+                      </div>
+                      <h3 class="h5 mb-0">
+                        <a href="https://youtu.be/r5Af8vIym2o" target="_blank" rel="noopener noreferrer">3rd Trimester Induction Abortion: Injection and Stillbirth</a>
+                      </h3>
+                    </div>
+                    <div class="card-footer py-4">
+                      <a href="https://youtu.be/r5Af8vIym2o" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center text-decoration-none">
+                        <img src="assets/img/action.jpg" class="rounded-circle" width="48" alt="...">
+                        <div class="ps-3">
+                          <h6 class="fs-base fw-semibold mb-0">Dr. Anthony Levatino</h6>
+                          <span class="fs-sm text-muted">Obstetrics and Gynecology</span>
+                        </div>
+                      </a>
+                    </div>
+                  </article>
+                </div>
+
+
               </div>
+
+              <!-- Pagination (bullets) -->
+              <div class="swiper-pagination position-relative bottom-0 mt-4 mb-lg-2"></div>
             </div>
           </div>
         </div>
-      </section>
+      </div>
+    </section>
 
 
-    </main>
+  </main>
 
 
-    <!-- Back to top button -->
-    <a href="#top" class="btn-scroll-top" data-scroll>
-      <span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span>
-      <i class="btn-scroll-top-icon bx bx-chevron-up"></i>
-    </a>
+  <!-- Back to top button -->
+  <a href="#top" class="btn-scroll-top" data-scroll>
+    <span class="btn-scroll-top-tooltip text-muted fs-sm me-2">Top</span>
+    <i class="btn-scroll-top-icon bx bx-chevron-up"></i>
+  </a>
 
-    <!-- Vendor Scripts -->
-    <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
-    <script src="assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
-    <script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
-    <script src="assets/vendor/@lottiefiles/lottie-player/dist/lottie-player.js"></script>
-    <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
-    <script src="assets/vendor/cleave.js/dist/cleave.min.js"></script>
-    
-    <script src="assets/js/typed/lib/typed.min.js"></script>
-    <script src="assets/js/typed.js"></script>
+  <!-- Vendor Scripts -->
+  <script src="assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/smooth-scroll/dist/smooth-scroll.polyfills.min.js"></script>
+  <script src="assets/vendor/jarallax/dist/jarallax.min.js"></script>
+  <script src="assets/vendor/@lottiefiles/lottie-player/dist/lottie-player.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/cleave.js/dist/cleave.min.js"></script>
 
-    <!-- Main Theme Script -->
-    <script src="assets/js/theme.min.js"></script>
+  <script src="assets/js/typed/lib/typed.min.js"></script>
+  <script src="assets/js/typed.js"></script>
 
-    <!-- Sprinkler JS -->
-    <script src="https://unpkg.com/sprinkler@1.12.0/dist/sprinkler.min.js"></script>
+  <!-- Main Theme Script -->
+  <script src="assets/js/theme.min.js"></script>
 
-    <!-- Map box js -->
-    <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
-    <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.min.js"></script>
+  <!-- Sprinkler JS -->
+  <script src="https://unpkg.com/sprinkler@1.12.0/dist/sprinkler.min.js"></script>
 
-    <!-- Custom files -->
-    <script src="assets/js/src/info.js"></script>
-    <script src="assets/js/src/sprinkle.js"></script>
+  <!-- Map box js -->
+  <script src="https://api.mapbox.com/mapbox-gl-js/v2.6.1/mapbox-gl.js"></script>
+  <script src="https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v4.7.2/mapbox-gl-geocoder.min.js"></script>
 
-    <script src="assets/js/src/mapGeojson.js"></script>
-    <script src="assets/js/src/mapTotal.js"></script>
-    <script src="assets/js/src/mapRelative.js"></script>
+  <!-- Custom files -->
+  <script src="assets/js/src/info.js"></script>
+  <script src="assets/js/src/sprinkle.js"></script>
 
-    <script src="assets/js/src/profile.js"></script>
+  <script src="assets/js/src/mapGeojson.js"></script>
+  <script src="assets/js/src/mapTotal.js"></script>
+  <script src="assets/js/src/mapRelative.js"></script>
 
-    <script src="assets/js/src/main.js"></script>
+  <script src="assets/js/src/profile.js"></script>
+
+  <script src="assets/js/src/main.js"></script>
 
 
-  </body>
+</body>
 
 </html>

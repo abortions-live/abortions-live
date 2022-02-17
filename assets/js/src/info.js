@@ -15,7 +15,7 @@ async function info(repeat_rate, per_min) {
         count.innerHTML = plusOne;
     }
 
-    var repeatRateWho = repeat_rate/3
+    var repeatRateWho = repeat_rate/1.7
     var intervalIDWho = setInterval(tickWho, repeatRateWho);
     function tickWho(){
         var value = parseInt(countWho.textContent)
